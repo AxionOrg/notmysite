@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Naimur Rahaman (MNR)",
+    "role": "প্রতিষ্ঠাতা ও ডেভলপার",
+    "bio": "শিক্ষার্থীদের জন্য প্রযুক্তিকে সহজলভ্য করার লক্ষ্যে দীর্ঘ সময় ধরে কাজ করে যাচ্ছে",
+    "imageUrl": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Logo/Naimur/Naimur%20BGB.png",
+    "social": {
+      "globe": "https://naimur.mnr.world/",
+      "send": "https://t.me/WithNaimur",
+      "facebook": "https://facebook.com/WithNaimur",
+      "youtube": "https://youtube.com/@MNRfrom2020",
+      "github": "https://github.com/MNRfrom2020"
+    }
+  },
+  {
+    "name": "FrostFoe",
+    "role": "প্রধান ডেভলপার",
+    "bio": "এই প্ল্যাটফর্ম ডেভলপ থেকে শুরু করে পরিচালনা এবং এর কার্যকারিতা বৃদ্ধিতে কাজ করছেন",
+    "imageUrl": "https://avatars.githubusercontent.com/u/175545919?v=4",
+    "social": {
+      "globe": "https://frostfoe.netlify.app/",
+      "send": "https://t.me/FrostFoe",
+      "facebook": "https://facebook.com/FrostFoe/",
+      "instagram": "https://instagram.com/FrostFoe/",
+      "youtube": "https://www.youtube.com/@frostfoe_e",
+      "github": "https://github.com/FrostFoe"
+    }
+  },
+  {
+    "name": "Sadman Prodhan",
+    "role": "মার্কেটিং ও কমিউনিটি ম্যানেজার",
+    "bio": "আমাদের প্ল্যাটফর্মের বার্তা সবার কাছে পৌঁছে দেওয়া এবং কমিউনিটি ম্যানেজমেন্টের দায়িত্বে নিয়োজিত",
+    "imageUrl": "https://avatars.githubusercontent.com/u/101451039?v=4",
+    "social": {
+      "send": "https://t.me/sadman34",
+      "facebook": "https://facebook.com/sadman.saad.944347"
+    }
+  },
+  {
+    "name": "Shuyaib Islam",
+    "role": "প্রধান ডিজাইনার",
+    "bio": "ডিজাইনের কাজ ও ফিডব্যাক দিয়ে সহায়তাকারী",
+    "imageUrl": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Logo/Shuyaib/Shuyaib.png",
+    "social": {
+      "globe": "https://sybfiles.mnr.world/",
+      "send": "https://t.me/shu_yaib",
+      "mail": "mailto:mdshuyaibislam5050@gmail.com",
+      "github": "https://github.com/shuyaib105"
+    }
+  },
+  {
+    "name": "Awolad Hossain",
+    "role": "প্রধান পর্যালোচক",
+    "bio": "প্রজেক্টের শুরু থেকেই ফিডব্যাক দিয়ে প্রজেক্ট কে অনেকটা বেটার করতে সাহায্য করেছে",
+    "imageUrl": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/8401d539e6860676b73549b102ad89cc6e742e29/Logo/MNR%20World/MNR%20Icon.svg",
+    "social": {
+      "send": "https://t.me/mdawolad",
+      "mail": "mailto:mdawoladhossain20252@gmail.com",
+      "facebook": "https://facebook.com/md.awolad.hossain.705189/"
+    }
+  }
+]

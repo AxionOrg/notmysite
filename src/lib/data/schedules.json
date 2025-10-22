@@ -1,0 +1,1424 @@
+{
+  "admission": [
+    { "subject": "SEC", "date": "২৮ জুন", "status": "পরীক্ষা হয়ে গেছে" },
+    { "subject": "৭ কলেজ (বিজ্ঞান)", "date": "স্থগিত", "status": "স্থগিত" },
+    { "subject": "৭ কলেজ (মানবিক)", "date": "স্থগিত", "status": "স্থগিত" },
+    { "subject": "৭ কলেজ (ব্যবসা)", "date": "স্থগিত", "status": "স্থগিত" },
+    {
+      "subject": "BUP FASS",
+      "date": "১৩ ডিসেম্বর",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "BUP FSSS",
+      "date": "১৩ ডিসেম্বর",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "BUP FST",
+      "date": "১৪ ডিসেম্বর",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "BUP FBS",
+      "date": "১৪ ডিসেম্বর",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "মেরিটাইম FMGP",
+      "date": "২০ ডিসেম্বর",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "মেরিটাইম FSA",
+      "date": "২০ ডিসেম্বর",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "মেরিটাইম FEOS",
+      "date": "২১ ডিসেম্বর",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "মেরিটাইম FET",
+      "date": "২১ ডিসেম্বর",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "BSMRAAU",
+      "date": "২৮ ডিসেম্বর",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "ঢাবি (IBA)",
+      "date": "০৩ জানুয়ারি",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "ঢাবি (চ)",
+      "date": "০৪ জানুয়ারি",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    { "subject": "কুয়েট", "date": "১১ জানুয়ারী", "status": "পরীক্ষা হয়ে গেছে" },
+    {
+      "subject": "মেডিকেল",
+      "date": "১৭ জানুয়ারি",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "বুয়েট (প্রিলি)",
+      "date": "২৩ জানুয়ারি",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    { "subject": "AFMC", "date": "২৪ জানুয়ারি", "status": "পরীক্ষা হয়ে গেছে" },
+    {
+      "subject": "ঢাবি (খ)",
+      "date": "২৫ জানুয়ারি",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জবি (E)",
+      "date": "৩১ জানুয়ারি",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "চুয়েট",
+      "date": "০১ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "রুয়েট (প্রিলি) ",
+      "date": "০৮ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "ঢাবি (গ)",
+      "date": "০৮ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (ডি) ছাত্রী",
+      "date": "০৯ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (ডি) ছাত্র",
+      "date": "১০ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি IBA",
+      "date": "১০ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (ই) ছাত্রী",
+      "date": "১১ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (ই) ছাত্র",
+      "date": "১১ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (এ) ছাত্রী",
+      "date": "১১ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (এ) ছাত্র",
+      "date": "১২ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (সি) ছাত্রী",
+      "date": "১৩ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "বুয়েট (লিখিত)",
+      "date": "১৩ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (সি) ছাত্র",
+      "date": "১৩ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জবি (D)",
+      "date": "১৪ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "ঢাবি (ক)",
+      "date": "১৫ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জবি (B)",
+      "date": "১৫ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (সি -1) ছাত্র/ছাত্রী",
+      "date": "১৭ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (বি) ছাত্রী",
+      "date": "১৭ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জাবি (বি) ছাত্র",
+      "date": "১৭ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "রুয়েট (লিখিত)",
+      "date": "২০ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "MIST",
+      "date": "২২ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জবি (A)",
+      "date": "২২ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "ডেন্টাল",
+      "date": "২৮ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "শাবিপ্রবি (ক)",
+      "date": "২৮ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "শাবিপ্রবি (খ)",
+      "date": "২৮ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "জবি (C)",
+      "date": "২৮ ফেব্রুয়ারী",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    { "subject": "চবি (ক)", "date": "০১ মার্চ", "status": "পরীক্ষা হয়ে গেছে" },
+    { "subject": "বুটেক্স", "date": "০৭ মার্চ", "status": "পরীক্ষা হয়ে গেছে" },
+    { "subject": "চবি (খ)", "date": "০৮ মার্চ", "status": "পরীক্ষা হয়ে গেছে" },
+    {
+      "subject": "চবি বি(০১)",
+      "date": "১০ মার্চ",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "চবি বি(০২)",
+      "date": "১১ মার্চ",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    { "subject": "চবি (গ)", "date": "১৫ মার্চ", "status": "পরীক্ষা হয়ে গেছে" },
+    { "subject": "চবি (ঘ)", "date": "২২ মার্চ", "status": "পরীক্ষা হয়ে গেছে" },
+    {
+      "subject": "চবি ডি(০১)",
+      "date": "২৪ মার্চ",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "রাবি (খ)",
+      "date": "১২ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "কৃষি গুচ্ছ",
+      "date": "১২ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "খুবি (গ)",
+      "date": "১৭ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "খুবি (ঘ)",
+      "date": "১৭ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "খুবি (ক)",
+      "date": "১৮ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "খুবি (খ)",
+      "date": "১৮ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "রাবি (ক)",
+      "date": "১৯ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "কুবি (গ)",
+      "date": "১৯ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "কুবি (ক)",
+      "date": "১৯ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "গুচ্ছ (গ)",
+      "date": "২৫ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "কুবি (খ)",
+      "date": "২৫ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "রাবি (গ)",
+      "date": "২৬ এপ্রিল",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    { "subject": "IUT", "date": "০২ মে", "status": "পরীক্ষা হয়ে গেছে" },
+    { "subject": "গুচ্ছ (খ)", "date": "০২ মে", "status": "পরীক্ষা হয়ে গেছে" },
+    { "subject": "নিটোর", "date": "০২ মে", "status": "পরীক্ষা হয়ে গেছে" },
+    {
+      "subject": "গার্হস্থ্য অর্থনীতি",
+      "date": "০৩ মে",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "হাবিপ্রবি (ক)",
+      "date": "০৫ মে",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "হাবিপ্রবি (খ)",
+      "date": "০৬ মে",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "হাবিপ্রবি (ঘ)",
+      "date": "০৭ মে",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "হাবিপ্রবি (গ)",
+      "date": "০৭ মে",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    { "subject": "গুচ্ছ (ক)", "date": "০৯ মে", "status": "পরীক্ষা হয়ে গেছে" },
+    {
+      "subject": "গুচ্ছ (আর্কিটেকচার)",
+      "date": "০৯ মে",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "টেক্সটাইল কলেজ",
+      "date": "১০ মে",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    { "subject": "ইবি (ঘ)", "date": "১১ মে", "status": "পরীক্ষা হয়ে গেছে" },
+    { "subject": "নার্সিং", "date": "১৬ মে", "status": "পরীক্ষা হয়ে গেছে" },
+    {
+      "subject": "প্রযুক্তি ইউনিট",
+      "date": "১৭ মে",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    {
+      "subject": "ঢাবি (গ) (Re-exam)",
+      "date": "১৭ মে",
+      "status": "পরীক্ষা হয়ে গেছে"
+    },
+    { "subject": "জাতীয়", "date": "৩১ মে", "status": "পরীক্ষা হয়ে গেছে" }
+  ],
+  "application": [
+    {
+      "university": "৭ কলেজ",
+      "detailsLink": "#",
+      "date": "স্থগিত",
+      "status": "স্থগিত",
+      "fee": "৮০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": null
+    },
+    {
+      "university": "জাতীয়",
+      "detailsLink": null,
+      "date": "২১ জানুয়ারি - ২৫ এপ্রিল",
+      "status": "সময় শেষ",
+      "fee": "৭০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-04-25T23:59:59+06:00"
+    },
+    {
+      "university": "BUP",
+      "detailsLink": null,
+      "date": "০৮ নভেম্বর – ২৩ নভেম্বর",
+      "status": "সময় শেষ",
+      "fee": "১১০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-11-23T23:59:59+06:00"
+    },
+    {
+      "university": "ঢাবি",
+      "detailsLink": null,
+      "date": "০৪ নভেম্বর – ২৭ নভেম্বর",
+      "status": "সময় শেষ",
+      "fee": "১,০৫০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-11-27T23:59:59+06:00"
+    },
+    {
+      "university": "ঢাবি IBA",
+      "detailsLink": null,
+      "date": "০৪ নভেম্বর – ২৭ নভেম্বর",
+      "status": "সময় শেষ",
+      "fee": "১,৫০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-11-27T23:59:59+06:00"
+    },
+    {
+      "university": "মেরিটাইম",
+      "detailsLink": null,
+      "date": "১০ নভেম্বর – ০৭ ডিসেম্বর",
+      "status": "সময় শেষ",
+      "fee": "৮০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-12-07T23:59:59+06:00"
+    },
+    {
+      "university": "বুয়েট (চূড়ান্ত)",
+      "detailsLink": null,
+      "date": "২৯ ডিসেম্বর হতে",
+      "status": "সময় শেষ",
+      "fee": "কঃ ৮০০ টাকা\nখঃ ১০০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": null
+    },
+    {
+      "university": "বুয়েট (প্রাথমিক)",
+      "detailsLink": null,
+      "date": "৩০ নভেম্বর - ১৪ ডিসেম্বর",
+      "status": "সময় শেষ",
+      "fee": "৫০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-12-14T23:59:59+06:00"
+    },
+    {
+      "university": "কুয়েট",
+      "detailsLink": null,
+      "date": "০৪ ডিসেম্বর – ১৪ ডিসেম্বর",
+      "status": "সময় শেষ",
+      "fee": "কঃ ১১০০ টাকা\nখঃ ১২০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-12-14T23:59:59+06:00"
+    },
+    {
+      "university": "জবি (প্রাথমিক)",
+      "detailsLink": null,
+      "date": "০১ ডিসেম্বর – ১৫ ডিসেম্বর",
+      "status": "সময় শেষ",
+      "fee": "১০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-12-15T23:59:59+06:00"
+    },
+    {
+      "university": "BSMRAAU",
+      "detailsLink": null,
+      "date": "১৮ নভেম্বর – ১৫ ডিসেম্বর",
+      "status": "সময় শেষ",
+      "fee": "৭৫০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-12-15T23:59:59+06:00"
+    },
+    {
+      "university": "মেডিকেল",
+      "detailsLink": null,
+      "date": "১০ ডিসেম্বর – ২৭ ডিসেম্বর",
+      "status": "সময় শেষ",
+      "fee": "১০০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-12-27T23:59:59+06:00"
+    },
+    {
+      "university": "AFMC",
+      "detailsLink": null,
+      "date": "১০ ডিসেম্বর – ২৭ ডিসেম্বর",
+      "status": "সময় শেষ",
+      "fee": "১০০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-12-27T23:59:59+06:00"
+    },
+    {
+      "university": "জবি (চূড়ান্ত)",
+      "detailsLink": null,
+      "date": "১৭ ডিসেম্বর - ৩০ ডিসেম্বর",
+      "status": "সময় শেষ",
+      "fee": "৭০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2024-12-30T23:59:59+06:00"
+    },
+    {
+      "university": "রুয়েট",
+      "detailsLink": null,
+      "date": "০৪ জানুয়ারি - ১৪ জানুয়ারি",
+      "status": "সময় শেষ",
+      "fee": "কঃ ১২৫০ টাকা\nখঃ ১৪৫০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-01-14T23:59:59+06:00"
+    },
+    {
+      "university": "চুয়েট",
+      "detailsLink": null,
+      "date": "০৫ জানুয়ারি - ১৮ জানুয়ারি",
+      "status": "সময় শেষ",
+      "fee": "কঃ ১২০০ টাকা\nখঃ ১৪০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-01-18T23:59:59+06:00"
+    },
+    {
+      "university": "চবি",
+      "detailsLink": null,
+      "date": "০২ জানুয়ারি - ২০ জানুয়ারি",
+      "status": "সময় শেষ",
+      "fee": "১০০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-01-20T23:59:59+06:00"
+    },
+    {
+      "university": "ডেন্টাল",
+      "detailsLink": null,
+      "date": "২৯ ডিসেম্বর – ২০ জানুয়ারি",
+      "status": "সময় শেষ",
+      "fee": "১০০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-01-20T23:59:59+06:00"
+    },
+    {
+      "university": "MIST",
+      "detailsLink": null,
+      "date": "৩০ ডিসেম্বর – ২০ জানুয়ারি",
+      "status": "সময় শেষ",
+      "fee": "কঃ ১০০০ টাকা\nখঃ ১২০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-01-20T23:59:59+06:00"
+    },
+    {
+      "university": "শাবিপ্রবি",
+      "detailsLink": null,
+      "date": "০৫ জানুয়ারি - ৩১ জানুয়ারি",
+      "status": "সময় শেষ",
+      "fee": "A1 ১২৫০ টাকা\nA2 ১৪০০ টাকা\nB ১২০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-01-31T23:59:59+06:00"
+    },
+    {
+      "university": "রাবি (প্রাথমিক)",
+      "detailsLink": null,
+      "date": "২৭ জানুয়ারি হতে ৫ ফেব্রুয়ারী",
+      "status": "সময় শেষ",
+      "fee": "২২ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-02-05T23:59:59+06:00"
+    },
+    {
+      "university": "খুবি",
+      "detailsLink": null,
+      "date": "১০ জানুয়ারি - ১০ ফেব্রুয়ারি",
+      "status": "সময় শেষ",
+      "fee": "A,B,C: ১০০০ টাকা\nD: ৭০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-02-10T23:59:59+06:00"
+    },
+    {
+      "university": "বুটেক্স",
+      "detailsLink": "#",
+      "detailsLinkText": "পদ্ধতি",
+      "date": "০১ জানুয়ারি - ১০ ফেব্রুয়ারি",
+      "status": "সময় শেষ",
+      "fee": "৩০০ টাকা",
+      "applyLink": null,
+      "applyCountdownDate": "2025-02-10T23:59:59+06:00"
+    },
+    {
+      "university": "রাবি (চুড়ান্ত ১ম পর্যায়)",
+      "detailsLink": null,
+      "date": "১১ -১৫ ফেব্রুয়ারী",
+      "status": "সময় শেষ",
+      "fee": "A ১৩২০ টাকা\nB ১২০০ টাকা\nC ১৩২০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-02-15T23:59:59+06:00"
+    },
+    {
+      "university": "রাবি (চুড়ান্ত ২য় পর্যায়)",
+      "detailsLink": null,
+      "date": "১৮-২০ ফেব্রুয়ারী",
+      "status": "সময় শেষ",
+      "fee": "A ১৩২০ টাকা\nB ১২০০ টাকা\nC ১৩২০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-02-20T23:59:59+06:00"
+    },
+    {
+      "university": "রাবি (চুড়ান্ত ৩য় পর্যায়)",
+      "detailsLink": null,
+      "date": "২৩-২৪ ফেব্রুয়ারী",
+      "status": "সময় শেষ",
+      "fee": "A ১৩২০ টাকা\nB ১২০০ টাকা\nC ১৩২০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-02-24T23:59:59+06:00"
+    },
+    {
+      "university": "NITOR",
+      "detailsLink": null,
+      "date": "১৬ জানুয়ারি - ২৬ ফেব্রুয়ারি",
+      "status": "সময় শেষ",
+      "fee": "১০০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-02-26T23:59:59+06:00"
+    },
+    {
+      "university": "কুবি",
+      "detailsLink": null,
+      "date": "০২ ফেব্রুয়ারী হতে ২৮ ফেব্রুয়ারী",
+      "status": "সময় শেষ",
+      "fee": "১০০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-02-28T23:59:59+06:00"
+    },
+    {
+      "university": "হাবিপ্রবি",
+      "detailsLink": null,
+      "date": "০৯ ফেব্রুয়ারী - ১৩ মার্চ",
+      "status": "সময় শেষ",
+      "fee": "১০০০ টাকা\nআর্কি-১২০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-03-13T23:59:59+06:00"
+    },
+    {
+      "university": "IUT প্রাথমিক",
+      "detailsLink": null,
+      "date": "২৭ ফেব্রুয়ারী হতে ১৩ মার্চ",
+      "status": "সময় শেষ",
+      "fee": "প্রাথমিক :৩০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-03-13T23:59:59+06:00"
+    },
+    {
+      "university": "কৃষি গুচ্ছ",
+      "detailsLink": null,
+      "date": "১৫ ফেব্রুয়ারী হতে ১৬ মার্চ",
+      "status": "সময় শেষ",
+      "fee": "১২০০ টাকা + চার্জ",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-03-16T23:59:59+06:00"
+    },
+    {
+      "university": "গুচ্ছ",
+      "detailsLink": null,
+      "date": "০৫ মার্চ হতে ১৭ মার্চ",
+      "status": "সময় শেষ",
+      "fee": "১৫০০ টাকা\nআর্কি ২০০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-03-17T23:59:59+06:00"
+    },
+    {
+      "university": "ইবি \"ডি\"",
+      "detailsLink": null,
+      "date": "১৬ মার্চ - ২৮ মার্চ",
+      "status": "সময় শেষ",
+      "fee": "১৫০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-03-28T23:59:59+06:00"
+    },
+    {
+      "university": "নার্সিং",
+      "detailsLink": null,
+      "date": "১২ ফেব্রুয়ারি - ০৬ এপ্রিল",
+      "status": "সময় শেষ",
+      "fee": "নার্সিং- ৭০০ টাকা\nমিডওয়াইফারি- ৫০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-04-06T23:59:59+06:00"
+    },
+    {
+      "university": "প্রযুক্তি ইউনিট",
+      "detailsLink": null,
+      "date": "০৬ জানুয়ারি - ০৭ এপ্রিল",
+      "status": "সময় শেষ",
+      "fee": "৮৫০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-04-07T23:59:59+06:00"
+    },
+    {
+      "university": "গার্হস্থ্য অর্থনীতি ইউনিট",
+      "detailsLink": null,
+      "date": "০৬ জানুয়ারি - ০৭ এপ্রিল",
+      "status": "সময় শেষ",
+      "fee": "৮৫০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-04-07T23:59:59+06:00"
+    },
+    {
+      "university": "IUT চুড়ান্ত",
+      "detailsLink": null,
+      "date": "০৭ এপ্রিল হতে ১৫ এপ্রিল",
+      "status": "সময় শেষ",
+      "fee": "চুড়ান্ত :১০০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-04-15T23:59:59+06:00"
+    },
+    {
+      "university": "টেক্সটাইল কলেজ",
+      "detailsLink": null,
+      "date": "১৭ ফেব্রুয়ারী - ২০ এপ্রিল",
+      "status": "সময় শেষ",
+      "fee": "১০০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-04-20T23:59:59+06:00"
+    },
+    {
+      "university": "SEC",
+      "detailsLink": null,
+      "date": "১৩ মার্চ হতে ১৫ জুন",
+      "status": "সময় শেষ",
+      "fee": "১৫০০ টাকা",
+      "applyLink": "#",
+      "applyCountdownDate": "2025-06-15T23:59:59+06:00"
+    }
+  ],
+  "general": [
+    {
+      "university": "SEC",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২৮ জুন\n–\nসকাল ১১ টা",
+      "marksDistribution": "১০০ নম্বর, ১ ঘণ্টা ৩০ মিনিট<br/>বিষয় ➙ P, M - 30,\nC, E - 20",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "০.২৫"
+    },
+    {
+      "university": "জাতীয় (বিজ্ঞান)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "৩১ মে\n–\nসকাল ১১টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ ➙ B, E-20, Gk-20<br/>Group Subject 40",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "নাই"
+    },
+    {
+      "university": "জাতীয় (মানবিক)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "৩১ মে\n–\nসকাল ১১টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ ➙ B, E-20, Gk-20<br/>৪টি গ্রুপ বিষয়<br/>4×10 = 40",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "নাই"
+    },
+    {
+      "university": "জাতীয় (বাণিজ্য)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "৩১ মে\n–\nসকাল ১১টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ ➙ B, E-20, Gk-20<br/>Group Subject<br/>4×10 = 40",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "নাই"
+    },
+    {
+      "university": "BUP (FASS)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৩ ডিসেম্বর\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>E, GK: MCQ-40; B: MCQ-20",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.৫০"
+    },
+    {
+      "university": "BUP (FSSS)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৩ ডিসেম্বর\n–\nবিকাল ০৩:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>E, GK: MCQ-40; B: MCQ-20",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.৫০"
+    },
+    {
+      "university": "BUP (FST)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৪ ডিসেম্বর\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "৬০ নাম্বার, ১ ঘন্টা<br/>যেকোনো তিনটি ➙ P, C, M, B: MCQ-20",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.৫০"
+    },
+    {
+      "university": "BUP (FBS)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৪ ডিসেম্বর\n–\nবিকাল ০৩:০০টা",
+      "marksDistribution": "৭৫ নাম্বার, ১ ঘন্টা<br/>Math: MCQ-40; Eng: MCQ-25; GK: MCQ-10",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.৫০"
+    },
+    {
+      "university": "মেরিটাইম (FMGP)",
+      "circularLink": "#",
+      "date": "২০ ডিসেম্বর\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১.৫ ঘন্টা<br/>আবশ্যক ➙ MCQ: E-35, ICT-25, Ability-15<br/>যেকোনো একটি ➙ M/Acc/GK: MCQ-25",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "মেরিটাইম (FSA)",
+      "circularLink": "#",
+      "date": "২০ ডিসেম্বর\n–\nবিকাল ০৩:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১.৫ ঘন্টা<br/>আবশ্যক ➙ MCQ: E-35, ICT-25, Ability-15<br/>যেকোনো একটি ➙ M/Acc/GK: MCQ-25",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "মেরিটাইম (FEOS)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২১ ডিসেম্বর\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১.৫ ঘন্টা<br/>P, C, M, E, Bio: MCQ-20",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "মেরিটাইম (FET)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২১ ডিসেম্বর\n–\nবিকাল ০৩:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১.৫ ঘন্টা<br/>P, C, M, E, ICT: MCQ-20",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "BSMRAAU",
+      "circularLink": "#",
+      "date": "২৮ ডিসেম্বর\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ২ ঘন্টা<br/>MCQ ➙ M-24, E-6, P-18, C-12<br/>Wr ➙ M-16, E-4, P-12, C-8",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "অজানা"
+    },
+    {
+      "university": "ঢাবি (IBA)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৩ জানুয়ারি\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ২ ঘন্টা<br/>MCQ: E-30; M-25, Analyt.Abil.-15;\nWritten: 30",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "ঢাবি (চ)",
+      "circularLink": "#",
+      "date": "০৪ জানুয়ারি\n–\nসকাল ১১:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১.৫ ঘন্টা<br/>Ba+En+GK MCQ: 40<br/>Drawing: 60",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "বুয়েট (প্রিলি)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২৩ জানুয়ারি",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>M-34, P-33,\nC-33 (MCQ)",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "ঢাবি (খ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২৫ জানুয়ারি\n–\nসকাল ১১:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১.৫ ঘন্টা<br/>আবশ্যক ➙ Gen. E: MCQ-15; Wr-20, GK: MCQ-30<br/>যেকোনো একটি ➙ B/*Adv. E: MCQ-15; Wr-20",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "চুয়েট",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০১ ফেব্রুয়ারী\n–\nসকাল ১০ টা",
+      "marksDistribution": "৫০০ নাম্বার, ২.৩০ ঘন্টা<br/>M-150, P-150,\nC-150, E-50 (Written)",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "-"
+    },
+    {
+      "university": "রুয়েট প্রিলি",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৮ ফেব্রুয়ারী",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>M-30, P-30,\nC-30, E-10 (MCQ)",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "-"
+    },
+    {
+      "university": "ঢাবি (গ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৮ ফেব্রুয়ারী\n–\nসকাল ১১:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১.৫ ঘন্টা<br/><b>ব্যাবসাঃ</b><br/>আবশ্যক ➙ B,E,Acc,Ma: MCQ-12; Wr-8<br/>যেকোনো একটি ➙ Finance/Marketing: MCQ-12; Wr-8<br/><b>অব্যাবসাঃ</b><br/>আবশ্যক ➙ B,E,ICT: MCQ-12; Wr-10<br/>যেকোনো একটি ➙ M/S/Eco: MCQ-24; Wr-10",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "জাবি (ঘ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৯, ১০ ফেব্রুয়ারী",
+      "marksDistribution": "৮০ নাম্বার, ১ ঘন্টা<br/>MCQ: Ba & En-8,\nC-24, B-44, IQ-4",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "জাবি (IBA)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১০ ফেব্রুয়ারী",
+      "marksDistribution": "৮০ নাম্বার, ১ ঘন্টা<br/>B-05, E-30,\nAptitude IQ -30<br/>Recent & GK -15",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "জাবি (E)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১১ ফেব্রুয়ারী",
+      "marksDistribution": "৮০ নাম্বার, ১ ঘন্টা<br/><b>ব্যবসা বিভাগ</b><br/>MCQ: Ba-20, En-20,\nMath-20, Acc. & BOM-20<br/><b>অন্যান্য বিভাগ</b><br/>MCQ: Ba-20, En-20,\nMath-20, GK-20",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "জাবি (ক)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১১, ১২ ফেব্রুয়ারী",
+      "marksDistribution": "৮০ নাম্বার, ১ ঘন্টা<br/>MCQ:ICT-8,\nP,C,M-22, Ba,En-3",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "জাবি (গ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৩ ফেব্রুয়ারী",
+      "marksDistribution": "৮০ নাম্বার, ১ ঘন্টা<br/>MCQ: Ba,En-20,\nGK & Others-40",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "বুয়েট (লিখিত)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৩ ফেব্রুয়ারি\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "৪০০ নাম্বার, ২ ঘন্টা<br/>M-140, P-130,\nC-130 (Wr)",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "০"
+    },
+    {
+      "university": "ঢাবি (ক)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৫ ফেব্রুয়ারী\n–\nসকাল ১১:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১.৫ ঘন্টা<br/><b>বিজ্ঞানঃ</b><br/>আবশ্যক ➙ P, C: MCQ-15; Wr-10<br/>যেকোনো দুটি ➙ M, B, Ba, En: MCQ-15; Wr-10<br/>(মূল বিষয় সহ)<br/><b>অবিজ্ঞানঃ</b><br/>আবশ্যক ➙ B,E,I: MCQ-15; Wr-10<br/>যেকোনো একটি ➙ M/S/Ec/Ps/Ge: MCQ-15; Wr-10",
+      "syllabus": "সম্ভ্যব্যঃ সংক্ষিপ্ত",
+      "secondTime": "নেই",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "জাবি (খ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৭ ফেব্রুয়ারী",
+      "marksDistribution": "৮০ নাম্বার, ১ ঘন্টা<br/>MCQ: GK-15 ও IQ-5,\nBa-20,En-20, Math-20",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "জাবি (C1)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৭ ফেব্রুয়ারী",
+      "marksDistribution": "৮০ নাম্বার, ১ ঘন্টা<br/>MCQ: Ba,En-10,\nGK -20, & Others-40",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "রুয়েট লিখিত",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২০ ফেব্রুয়ারী\n–\nসকাল ১০ টা",
+      "marksDistribution": "৩৫০ নাম্বার, ২.৩০ ঘন্টা<br/>M-100, P-100,\nC-100, E-50",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "-"
+    },
+    {
+      "university": "MIST",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২২ ফেব্রুয়ারি\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "২০০ নাম্বার, ৩ ঘন্টা<br/>M-90, P-70,\nC-30, E-10 (Wr)",
+      "syllabus": "অজানা",
+      "secondTime": "আছে (৫%)",
+      "negativeMarking": "০"
+    },
+    {
+      "university": "শাবিপ্রবি (খ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২৮ ফেব্রুয়ারি\n–\nসকাল ১০:৩০টা",
+      "marksDistribution": "৮০ নাম্বার, ১.৩০ ঘন্টা<br/><b>বিজ্ঞান হতে</b><br/>E, P, C-15, Ba-10,\nGK 10, Bio/M-15 (MCQ)<br/><b>মানবিক, বাণিজ্য</b><br/>B, E, GM - 15<br/>ICT, GK - 10<br/>গ্রুপ বিষয় ১৫",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "০.২"
+    },
+    {
+      "university": "শাবিপ্রবি (ক)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২৮ ফেব্রুয়ারি\n–\nবিকাল ০৩:০০টা",
+      "marksDistribution": "৮০ নাম্বার, ১.৩০ ঘন্টা<br/>M-20, P-20,\nC-20, Bio OR E-20 (MCQ)",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "০.২০"
+    },
+    {
+      "university": "ডেন্টাল",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২৮ ফেব্রুয়ারী\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>B: 30, C: 25, P: 20,\nE: 15, GK: 10 (MCQ)",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "চবি (ক)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১ মার্চ\n–\nসকাল ১১:১৫টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ:P,C,M,B-25<br/>Ban-10,Eng-15",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "বুটেক্স",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৭ মার্চ\n–\nসকাল ৯টা ৩০",
+      "marksDistribution": "২০০ নাম্বার, ২ ঘন্টা<br/>Wr ➙ M, P, C-60, E-20",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "০"
+    },
+    {
+      "university": "চবি (খ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "৮ মার্চ\n–\nসকাল ১১:১৫টা",
+      "marksDistribution": "১০০ নাম্বার, ঘন্টা<br/>MCQ:B,E-30,\nGK-40",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "চবি (B-1)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১০ মার্চ\n–\nসকাল ১১:১৫টা",
+      "marksDistribution": "১০০ নাম্বার, ঘন্টা<br/>MCQ:B,E-25,\nGK-50",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "চবি (B-2)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১১ মার্চ\n–\nসকাল ১১:১৫টা",
+      "marksDistribution": "১০০ নাম্বার, ঘন্টা<br/>MCQ:B- 30,E-30,\nIslam & GK-40",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "চবি (গ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৫ মার্চ\n–\nসকাল ১১:১৫টা",
+      "marksDistribution": "১০০ নাম্বার, ঘন্টা<br/>MCQ:E-40,\nAcc.-30,BPA-30",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "চবি (D)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২২ মার্চ\n–\nসকাল ১১:১৫টা",
+      "marksDistribution": "১০০ নাম্বার, ঘন্টা<br/>MCQ:B-30,E-30,\nGK,IQ-40",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "চবি (D-1)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২৪ মার্চ\n–\nসকাল ১১:১৫টা",
+      "marksDistribution": "১০০ নাম্বার, ঘন্টা<br/>MCQ:B/*E-35,E-30,\nGK-35",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "রাবি (খ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১২ এপ্রিল\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "<b>ব্যবসা</b><br/>১০০ নাম্বার, ১ ঘন্টা<br/>MCQ ➙ Ba-15, En-25, Acc., BOM-30<br/><b>অব্যবসাঃ</b><br/>১০০ নাম্বার, ১.৫ ঘন্টা<br/>MCQ ➙ B, ICT-15, E-25, GK-45",
+      "syllabus": "সংক্ষিপ্ত",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "কৃষি গুচ্ছ",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১২ এপ্রিল\n–\nবিকাল ০৩ টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ ➙ E- 10, P, C, M-20<br/>Bio- 30",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "খুবি (গ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৭ এপ্রিল\nসকাল ১০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ:B, E, GK-60<br/>Wr B, E -40",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "খুবি (ঘ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৭ এপ্রিল\nবিকাল ৩টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ:85<br/>Wr 15",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "খুবি (ক)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৮ এপ্রিল\nবিকাল ৩টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ- P,C,M-20<br/>Written - Eng-Math-Physics<br/>Chemistry ICT - 40",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "খুবি (খ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৮ এপ্রিল\nসকাল ১০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>Bio-25, C-20<br/>M-20, P-20, E-15",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "রাবি (ক)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৯ এপ্রিল\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ ➙ Ba, E-35, GK-30",
+      "syllabus": "সংক্ষিপ্ত",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "কুবি (গ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৯ এপ্রিল\n–\nসকাল ১০ টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/><b>বিজ্ঞান বিভাগ</b><br/>E, B-20, P, C-30,\n<br/><b>মানবিক বিভাগ</b><br/>E, B - 20, GK- 60<br/>অন্যান্য - 40<br/><b>বাণিজ্য বিভাগ</b><br/>E, B - 20, Gk - 10<br/>ACC, BS 30 (MCQ)",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-0.25"
+    },
+    {
+      "university": "কুবি (ক)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৯ এপ্রিল\n–\nবিকাল ০৩ টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>আবশ্যক ➤<br/>P-25, C-25,\nযেকোনো দুটি ➤<br/>M-25, Bio-25<br/>B & E - 25 (MCQ)",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-0.25"
+    },
+    {
+      "university": "GST (গ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২৫ এপ্রিল\n─\nসকাল ১১টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ:Ba,En-15,\nAcc.,BOM-35",
+      "syllabus": "সংক্ষিপ্ত",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "কুবি (খ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২৫ এপ্রিল\n–\nবিকাল ০৪ টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/><b>বিজ্ঞান বিভাগ</b><br/>E, B-25, P, C-20,\nGk-10<br/><b>মানবিক বিভাগ</b><br/>E, B - 25, GK- 10<br/>অন্যান্য - 40<br/><b>বাণিজ্য বিভাগ</b><br/>E, B - 25, Gk - 10<br/>ACC, BS 20 (MCQ)",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-0.25"
+    },
+    {
+      "university": "রাবি (গ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২৬ এপ্রিল\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "<b>বিজ্ঞানঃ</b><br/>১০০ নাম্বার, ১ ঘন্টা, MCQ<br/>আবশ্যক ➙ P,C-31.25, ICT-6.25,\nযেকোনো একটি ➙ M/B/M+B-31.25<br/><b>অ-বিজ্ঞানঃ</b><br/>১০০ নাম্বার, ১.৫ ঘন্টা, MCQ<br/>আবশ্যক ➙ Ba,En-31.25<br/>যেকোনো একটি ➙ GK/Psy/Geo-37.5",
+      "syllabus": "সংক্ষিপ্ত",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "IUT",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০২ মে\n–\nসকাল ১০টা ৩০",
+      "marksDistribution": "১০০ নাম্বার, ২ ঘন্টা<br/>MCQ ➙ P, M-35, C-15, E-15",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "GST (খ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০২ মে\n─\nসকাল ১১ টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ: GK-30,\nBa,Eng-35",
+      "syllabus": "সংক্ষিপ্ত",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "NITOR",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "২ মে\n–\nসকাল ১০:০০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>P,C,B: MCQ-30,\nE+GK: MCQ-10",
+      "syllabus": "উল্লেখ নেই",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "গার্হস্থ্য ইউনিট",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৩ মে\nসকাল ১১টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা, MCQ<br/>আবশ্যক ➙ Ba, En-30,\nযেকোনো একটি ➙ P,C,B,GK-60",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "০"
+    },
+    {
+      "university": "হাবিপ্রবি (ক)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৫ মে\n–\nসকাল ১০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ ➙ P-25, C-25,Bio-25, E-25",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "হাবিপ্রবি (খ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৬ মে\n–\nসকাল ১০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ ➙ P-25, C-25,M-25, E-25",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "হাবিপ্রবি (ঘ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৭ মে\n–\nসকাল ১০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ ➙ B, Gk- 25, E - 50",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "হাবিপ্রবি (গ)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৭ মে\n–\nসকাল ১০টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/><b>বাণিজ্য বিভাগ</b><br/>Business & Mng - 25 Acc, Eng, GK 25<br/><b>বিজ্ঞান ও মানবিক বিভাগ</b><br/>B, E - 40, GK- 20",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "GST (ক)",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "০৯ মে\n─\nসকাল ১১টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ: আবশ্যক ➙ P,C-25<br/>যেকোনো দুটো ➙ M,B,Ba,Eng-25",
+      "syllabus": "সংক্ষিপ্ত",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.২৫"
+    },
+    {
+      "university": "টেক্সটাইল কলেজ",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১০ মে\n─\nসকাল ১০ টা",
+      "marksDistribution": "২০০ নাম্বার, ১ ঘন্টা ২০মিনিট<br/>MCQ:E-20,\nP,C,M-60",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "-০.৫০"
+    },
+    {
+      "university": "ইবি ঘ",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১১ মে\nসকাল ১১ টা",
+      "marksDistribution": "৮০ নম্বর, ১ ঘণ্টা<br/>বিষয় ও নম্বর বণ্টন:<br/>আল-কুরআন, আল-হাদীস - ১৫<br/>আরবী, দা'ওয়াহ - ১০<br/>ইসলামের ইতিহাস, ইসলামী শিক্ষা, আল-ফিক্‌হ, বাংলা, ইংরেজী, সাধারণ জ্ঞান - ০৫",
+      "syllabus": "অজানা",
+      "secondTime": "আছে",
+      "negativeMarking": "অজানা"
+    },
+    {
+      "university": "নার্সিং",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৬ মে\n-\nসকাল ১০টা-১১টা",
+      "marksDistribution": "১০০ নাম্বার, ১ ঘন্টা<br/>MCQ:Ba,E-20<br/>M- 10, Gk-10<br/>Science(P,C, Bio)-40",
+      "syllabus": "সম্পূর্ণ",
+      "secondTime": "আছে",
+      "negativeMarking": "০"
+    },
+    {
+      "university": "প্রযুক্তি ইউনিট",
+      "circularLink": "#",
+      "questionBankLink": "#",
+      "date": "১৭ মে\nসকাল ১১টা",
+      "marksDistribution": "১২০ নাম্বার, ১.৫ ঘন্টা<br/>MCQ: E-15,\nP,C,M-35",
+      "syllabus": "অজানা",
+      "secondTime": "নেই",
+      "negativeMarking": "০"
+    }
+  ],
+  "others": {
+    "college": {
+      "generalInfo": {
+        "title": "তথ্যভান্ডার"
+      },
+      "apply": {
+        "title": "আবেদন",
+        "startDate": "...",
+        "endDate": "...",
+        "fee": "...",
+        "link": "http://xiclassadmission.gov.bd/",
+        "qualificationTitle": "আবেদনের যোগ্যতাঃ",
+        "qualificationDetails": "সাধারণত এসএসসি পরীক্ষার ফলাফলের উপর ভিত্তি করে আবেদন করতে হয়। বিস্তারিত সার্কুলারে পাবেন।"
+      },
+      "admitCard": {
+        "title": "প্রবেশপত্র",
+        "details": "সাধারণত কলেজ ভর্তিতে আলাদা প্রবেশপত্র থাকে না। আবেদন প্রক্রিয়া সম্পন্ন হলে একটি আবেদন কপি দেওয়া হয়, সেটিই প্রমাণ।"
+      },
+      "examDate": {
+        "title": "ভর্তির সময়কাল",
+        "details": "ভর্তির তারিখ ও সময়সূচী সার্কুলারে উল্লেখ করা থাকে।",
+        "note": {
+          "text": "একাদশ শ্রেণি ভর্তি ওয়েবসাইট",
+          "link": "http://xiclassadmission.gov.bd/"
+        }
+      },
+      "result": {
+        "title": "ভর্তির ফলাফল",
+        "date": "আবেদন প্রক্রিয়া শেষে নির্ধারিত তারিখে ফলাফল প্রকাশিত হয়।",
+        "link": "http://xiclassadmission.gov.bd/"
+      }
+    },
+    "private": {
+      "title": "তথ্যভান্ডার",
+      "apply": {
+        "title": "আবেদন",
+        "schedule": "প্রতিটি বিশ্ববিদ্যালয়ের নিজস্ব ওয়েবসাইটে ভিন্ন ভিন্ন সময়ে আবেদন নেওয়া হয়।",
+        "fee": "বিশ্ববিদ্যালয়ভেদে ভিন্ন।",
+        "qualificationTitle": "আবেদনের যোগ্যতাঃ",
+        "qualificationDetails": "UGC কর্তৃক নির্ধারিত ন্যূনতম যোগ্যতা প্রয়োজন। তবে অনেক বিশ্ববিদ্যালয় এর চেয়ে বেশি যোগ্যতা চাইতে পারে। বিস্তারিত জানতে পছন্দের বিশ্ববিদ্যালয়ের ওয়েবসাইট ভিজিট করুন।"
+      },
+      "examDate": {
+        "title": "পরীক্ষার সময়কাল",
+        "details": "প্রতিটি বিশ্ববিদ্যালয়ের নিজস্ব সময়সূচী অনুযায়ী পরীক্ষা অনুষ্ঠিত হয়।"
+      },
+      "examCenter": {
+        "title": "ভর্তি পরীক্ষার কেন্দ্র",
+        "details": "সাধারণত বিশ্ববিদ্যালয়ের নিজস্ব ক্যাম্পাসেই পরীক্ষা অনুষ্ঠিত হয়।"
+      },
+      "generalInfo": {
+        "title": "মানবণ্টন ও অন্যান্য তথ্য",
+        "details": "মানবণ্টন, সিলেবাস ও পরীক্ষার পদ্ধতি বিশ্ববিদ্যালয়ভেদে সম্পূর্ণ ভিন্ন। সঠিক তথ্যের জন্য পছন্দের বিশ্ববিদ্যালয়ের ওয়েবসাইট ভিজিট করুন।"
+      }
+    }
+  }
+}

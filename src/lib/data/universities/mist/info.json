@@ -1,0 +1,448 @@
+
+{
+  "admissionInfo": {
+    "title": "ভর্তি তথ্য",
+    "apply": {
+      "title": "আবেদন",
+      "startDate": "০২ নভেম্বর, ২০২৫ (সকাল ১১টা)",
+      "endDate": "২৬ নভেম্বর, ২০২৫ (রাত ১২টা)",
+      "fees": [
+        {
+          "unit": "ক গ্রুপ (ইঞ্জিনিয়ারিং)",
+          "amount": "১২০০৳"
+        },
+        {
+          "unit": "খ গ্রুপ (ইঞ্জিনিয়ারিং ও আর্কিটেকচার)",
+          "amount": "১৪০০৳"
+        }
+      ],
+      "helpfulLinks": [
+        {
+          "label": "চার বছরের খরচ সম্পর্কে ধারণা",
+          "url": "https://t.me/Study_on_Telegram/11397"
+        }
+      ],
+      "link": "https://admission.mist.ac.bd/",
+      "qualificationTitle": "আবেদনের যোগ্যতাঃ",
+      "sscBatch": "2022, 2023",
+      "hscBatch": "2024, 2025",
+      "secondTime": "আছে (৫% নম্বর কর্তন)",
+      "paymentMethod": {
+        "title": "পেমেন্ট পদ্ধুতি ও পাসওয়ার্ড সংগ্রহ",
+        "details": "সঠিকভাবে আবেদন করা হলে একটি USER ID পাবেন। সেই USER ID দিয়ে, আবেদনকারীকে টেলিটক প্রিপেইড মোবাইল ফোন থেকে প্রয়োজনীয় ব্যালেন্স সহ 16222 নম্বরে একটি SMS পাঠাতে হবে। সঠিকভাবে পেমেন্ট করা হলে, আবেদনকারী SMS এর মাধ্যমে একটি পাসওয়ার্ড পাবেন। পাসওয়ার্ড ব্যবহার করে, পরবর্তীতে যোগ্য আবেদনকারী প্রবেশপত্র ডাউনলোড এবং প্রিন্ট করতে পারবেন।"
+      }
+    },
+    "unitRequirements": {
+      "title": "আবেদনের যোগ্যতা",
+      "units": [
+        {
+          "name": "এসএসসি (SSC):",
+          "departments": [
+            {
+              "name": "বিজ্ঞান বিভাগে ন্যূনতম জিপিএ ৪.০০ (চতুর্থ বিষয় ছাড়া)"
+            }
+          ]
+        },
+        {
+          "name": "এইচএসসি (HSC):",
+          "departments": [
+            {
+              "name": "চারটি বিষয়ে (গণিত, পদার্থবিজ্ঞান, রসায়ন এবং ইংরেজি) সর্বনিম্ন ১৮ গ্রেড এবং গণিত, পদার্থবিজ্ঞান এবং রসায়ন প্রতিটিতে ন্যূনতম ৪.০"
+            }
+          ]
+        }
+      ]
+    },
+    "improvementPolicy": {
+      "title": "ইমপ্রুভমেন্ট ও অন্যান্য",
+      "details": ""
+    },
+    "admitCard": {
+      "title": "প্রবেশপত্র",
+      "startDate": "১৫ ডিসেম্বর, ২০২৫ থেকে কিংবা এর পরে থেকে",
+      "endDate": "পরীক্ষা শুরুর পূর্ব পর্যন্ত",
+      "link": "http://mist.teletalk.com.bd/admitcard/",
+      "linkNote": "(User ID এবং Password দিয়ে ADMIT CARD ডাউনলোড করতে হবে।)",
+      "note": "পরীক্ষা দেয়ার জন্যে যোগ্য কি না ও সেন্টার রোল, ভেন্যু ইত্যাদি জানার জন্যে আগে <a href='https://admission.mist.ac.bd/eligible-list/index.html' target='_blank' rel='noopener noreferrer' class='text-primary hover:underline'>Eligibility Check</a> করে নিতে হবে। USER ID দিয়ে সার্চ দিলেই হবে।"
+    },
+    "examDate": {
+      "title": "পরীক্ষার সময়কাল",
+      "dates": [
+        {
+          "unit": "",
+          "date": "<b>তারিখ:</b> ২৭ ডিসেম্বর<div class='border border-border/50 rounded-md p-2 mt-2 text-left'>✓ <b>ক গ্রুপ (ইঞ্জিনিয়ারিং):</b> সকাল ১০টা থেকে ১টা<br/>✓ <b>খ গ্রুপ (ইঞ্জিনিয়ারিং ও আর্কিটেকচার):</b> সকাল ১০টা থেকে ১টা এবং ৩টা থেকে ৫টা</div>"
+        }
+      ],
+      "note": {
+        "text": "অ্যাডমিশন ক্যালেন্ডার",
+        "link": "/calendar"
+      }
+    },
+    "examCenter": {
+      "title": "ভর্তি পরীক্ষার কেন্দ্র",
+      "location": "সাধারণত ঢাকা জেলার কয়েকটি সামরিক নিয়ন্ত্রিত শিক্ষা প্রতিষ্ঠানে",
+      "locationLink": "https://t.me/Study_on_Telegram/15763",
+      "note": "<div class='text-orange-500 dark:text-orange-400 flex items-center'><svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-circle-alert inline-block mr-1 h-[18px] w-[18px]'><circle cx='12' cy='12' r='10'/><line x1='12' x2='12' y1='8' y2='12'/><line x1='12' x2='12.01' y1='16' y2='16'/></svg>নোটঃ</div>Shaheed Ramiz Uddin Cantonment College এবং Shaheed Bir Bikram Ramiz Uddin Cantonment School দুটো  পাশাপাশি। তবুও কেউ কনফিউজড হইয়েন না। ভালোভাবে ভেন্যু নাম দেখে তারপর হলে যাবেন।"
+    },
+    "generalInfo": {
+      "points": [
+        {
+          "label": "মোট নাম্বার",
+          "value": "<br/>&nbsp;&nbsp;&nbsp;• ইঞ্জিনিয়ারিং: ২০০ (লিখিত)<br/>&nbsp;&nbsp;&nbsp;• আর্কিটেকচার: ২০০ (অংকন)"
+        },
+        {
+          "label": "মোট সময়",
+          "value": "৩ ঘণ্টা"
+        },
+        {
+          "label": "মানবণ্টন",
+          "value": "<br/>✓<b> ইঞ্জিনিয়ারিং:</b><br/>&nbsp;&nbsp;&nbsp;• গণিত: ৯০<br/>&nbsp;&nbsp;&nbsp;• পদার্থবিজ্ঞান: ৭০<br/>&nbsp;&nbsp;&nbsp;• রসায়ন: ৩০<br/>&nbsp;&nbsp;&nbsp;• ইংরেজি: ১০<br/>✓<b> আর্কিটেকচার:</b><br/>&nbsp;&nbsp;&nbsp;• অংকন: ২০০"
+        },
+        {
+          "label": "নোট",
+          "value": "যারা \"ক\" গ্রুপ অর্থাৎ শুধু ইঞ্জিনিয়ারিং এর জন্যে এপ্লাই করবে, তারা শুধু ইঞ্জিনিয়ারিং অংশের পরীক্ষা দিবে। কিন্তু, যারা \"খ\" গ্রুপ অর্থাৎ ইঞ্জিনিয়ারিং ও আর্কিটেকচার এর জন্যে এপ্লাই করবে, তাদের ইঞ্জিনিয়ারিং অংশের পরীক্ষা তো দিতেই হবে পাশাপাশি আর্কিটেকচার এরও পরীক্ষা দিতে হবে।"
+        },
+        {
+          "label": "সিলেবাস",
+          "value": "অজানা"
+        },
+        {
+          "label": "সেকেন্ড টাইম",
+          "value": "আছে (৫% নম্বর কর্তন)"
+        },
+        {
+          "label": "নেগেটিভ মার্কিং",
+          "value": "নেই"
+        },
+        {
+          "label": "ক্যালকুলেটর",
+          "value": "ব্যবহার করা যাবে <a href='https://t.me/Study_on_Telegram/14044' target='_blank' rel='noopener noreferrer' class='text-primary hover:underline'>[তালিকা]</a>"
+        }
+      ]
+    },
+    "result": {
+      "title": "ফলাফল",
+      "content": "● <b>যোগ্য প্রার্থীদের তালিকা প্রকাশ:</b> ১৫ ডিসেম্বর<br/><b><svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-link inline-block mr-2'><path d='M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.72'/><path d='M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.72-1.72'/></svg>লিংকঃ</b> <a href='https://admission.mist.ac.bd/eligible-list/index.html' target='_blank' rel='noopener noreferrer' class='text-primary hover:underline inline-flex items-center gap-1'>admission.mist.ac.bd/eligible-list/<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-arrow-up-right-from-square h-3 w-3'><path d='M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6'/><path d='m21 3-9 9'/><path d='M15 3h6v6'/></svg></a><hr class='my-1 border-border/50' />● <b>ফলাফল প্রকাশ:</b> -<br/><b><svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-link inline-block mr-2'><path d='M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.72'/><path d='M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.72-1.72'/></svg>লিংকঃ</b> <a href='https://mist.ac.bd/notice' target='_blank' rel='noopener noreferrer' class='text-primary hover:underline inline-flex items-center gap-1'>mist.ac.bd/notice<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-arrow-up-right-from-square h-3 w-3'><path d='M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6'/><path d='m21 3-9 9'/><path d='M15 3h6v6'/></svg></a> (নোটিশ থেকে)<hr class='my-1 border-border/50' /><b>নোট:</b> লিখিত পরীক্ষা, তাই ফলাফল দিতে বেশ ভালোই সময় লাগে।"
+    }
+  },
+  "historyAndMap": {
+    "history": {
+      "title": "একনজরে এমআইএসটি (MIST)",
+      "paragraphs": [
+        "মিলিটারি ইনস্টিটিউট অফ সায়েন্স অ্যান্ড টেকনোলজি (এমআইএসটি) বাংলাদেশের একটি সরকারি প্রকৌশল বিশ্ববিদ্যালয়, যা মিরপুর সেনানিবাস-এ অবস্থিত। ১৯৯৮ সালে বাংলাদেশ সামরিক বাহিনীর অফিসারদের বিএসসি প্রকৌশল অধ্যয়ন করার জন্য বাংলাদেশ সরকার এটি প্রতিষ্ঠা করে। প্রাথমিক অবস্থায় পুরকৌশল, তড়িৎ, ইলেক্ট্রনিক ও যোগাযোগ প্রকৌশল, যন্ত্র প্রকৌশল এবং কম্পিউটার বিজ্ঞান ও প্রকৌশল বিভাগ থেকে শিক্ষা কার্যক্রম পরিচালিত হলেও পরবর্তীতে অন্যান্য নতুন বিভাগ খোলা হয়।",
+        "২০০৮ সালের আগে এমআইএসটি ঢাকা বিশ্ববিদ্যালয়ের অন্তর্ভুক্ত ছিল। পূর্বে শুধু সামরিক বাহিনীর অফিসারদের অংশগ্রহণ থাকলেও ২০০২ সাল থেকে বেসামরিক শিক্ষার্থীরা এখানে ভর্তি পরীক্ষায় অংশগ্রহণের মধ্য দিয়ে অধ্যয়ন করার সুযোগ পায়। এমআইএসটিতে বর্তমানে ৪ টি অনুষদে ১২ টি প্রকৌশল এবং স্থাপত্য বিভাগ রয়েছে। প্রকৌশলে বিএসসি, এমএসসি/এম. ইঞ্জিনিয়ারিং, এম. ফিল. এবং পিএইচডি ডিগ্রী প্রদান করে থাকে এমআইএসটি।"
+      ],
+      "source": {
+        "label": "উৎস",
+        "links": [
+          {
+            "text": "উইকিপিডিয়া প্রতিবেদন (এমআইএসটি)",
+            "url": "https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A6%87%E0%A6%A8%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%9F_%E0%A6%85%E0%A6%AC_%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8_%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1_%E0%A6%9F%E0%A7%87%E0%A6%95%E0%A6%A8%E0%A7%8B%E0%A6%B2%E0%A6%9C%E0%A6%BF"
+          }
+        ]
+      }
+    },
+    "mapLocations": {
+      "title": "MIST এর পরীক্ষার কেন্দ্র",
+      "categories": [
+        {
+          "name": "পরীক্ষার কেন্দ্রসমূহ",
+          "locations": [
+            {
+              "name": "মিলিটারি ইনস্টিটিউট অব সায়েন্স অ্যান্ড টেকনোলজি",
+              "url": "https://maps.app.goo.gl/8rfPPCQgFiU6h4zh7"
+            },
+            {
+              "name": "বিএএফ শাহীন কলেজ, ঢাকা",
+              "url": "https://maps.app.goo.gl/wpBZgqZqYdGWNL4L8"
+            },
+            {
+              "name": "বাংলাদেশ ইন্টারন্যাশনাল স্কুল ও কলেজ, নির্ঝর",
+              "url": "https://maps.app.goo.gl/dEKmQVj2DUAC1BWx5"
+            },
+            {
+              "name": "বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনালস",
+              "url": "https://maps.app.goo.gl/K7pVeoRzuDzei9H1A"
+            },
+            {
+              "name": "ঢাকা ক্যান্টনমেন্ট গার্লস পাবলিক স্কুল এন্ড কলেজ",
+              "url": "https://maps.app.goo.gl/fc5FSvW5hnEduarw6"
+            },
+            {
+              "name": "মিরপুর ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ",
+              "url": "https://maps.app.goo.gl/9NnCNbD4PsgxMRt98"
+            },
+            {
+              "name": "শাহিদ বীর বিক্রম রমিজ উদ্দিন ক্যান্টনমেন্ট স্কুল, ঢাকা",
+              "url": "https://maps.app.goo.gl/Z4v4enBDVUQV5TCA8"
+            },
+            {
+              "name": "শহীদ রমিজ উদ্দিন ক্যান্টনমেন্ট কলেজ",
+              "url": "https://maps.app.goo.gl/k3Qio9uHtDgbWGys8"
+            },
+            {
+              "name": "নির্ঝর ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ",
+              "url": "https://maps.app.goo.gl/yeZjz2KFTK439Fky9"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "stats": [
+    {
+      "value": "৪টি",
+      "label": "অনুষদ"
+    },
+    {
+      "value": "১২টি",
+      "label": "বিষয়"
+    },
+    {
+      "value": "৮৬০টি",
+      "label": "আসন"
+    }
+  ],
+  "circular": {
+    "title": "সম্পূর্ণ সার্কুলার",
+    "note": "(⚠ নোট: বিস্তারিতভাবে সবকিছু জানার জন্যে সার্কুলারটি ভালোভাবে পড়ে নিয়েন)",
+    "downloadLink": "https://t.me/Study_on_Telegram/15757"
+  },
+  "previousCirculars": [
+    {
+      "href": "https://t.me/Study_on_Telegram/13315",
+      "text": "MIST Circular 2024-25"
+    },
+    {
+      "href": "https://t.me/Study_on_Telegram/11197",
+      "text": "MIST Circular 2023-24"
+    },
+    {
+      "href": "https://t.me/Study_on_Telegram/7609",
+      "text": "MIST Circular 2022-23"
+    },
+    {
+      "href": "https://t.me/Study_on_Telegram/1584",
+      "text": "MIST Circular 2021-22"
+    }
+  ],
+  "links": [
+    [
+      { "href": "#Circular", "label": "সার্কুলার" },
+      { "href": "/mist#QuestionBank", "label": "প্রশ্নব্যাংক" }
+    ],
+    [
+      {
+        "href": "https://mist.ac.bd/",
+        "label": "মূল ওয়েবসাইট",
+        "target": "_blank",
+        "rel": "noreferrer noopener"
+      },
+      {
+        "href": "https://mist.ac.bd/admission",
+        "label": "ভর্তি ওয়েবসাইট",
+        "target": "_blank",
+        "rel": "noreferrer noopener"
+      }
+    ],
+    [
+      {
+        "href": "https://admission.mist.ac.bd/",
+        "label": "আবেদন",
+        "target": "_blank",
+        "rel": "noreferrer noopener"
+      },
+      {
+        "href": "http://mist.teletalk.com.bd/admitcard/index.php",
+        "label": "প্রবেশপত্র",
+        "target": "_blank",
+        "rel": "noreferrer noopener"
+      }
+    ],
+    [
+      {
+        "href": "https://mist.ac.bd/notice",
+        "label": "ফলাফল (নোটিশ থেকে)",
+        "target": "_blank",
+        "rel": "noreferrer noopener",
+        "colSpan": 2
+      }
+    ]
+  ],
+  "questionBanks": {
+    "questionBank": [
+      {
+        "title": "সম্ভাব্য প্রশ্ন ও উত্তর",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "RADII Probable Q & A",
+                "url": "https://t.me/PDFHour/9746?single"
+              },
+              {
+                "text": "MIST Question 2013-14",
+                "url": "https://t.me/PDFHour/9747?single"
+              },
+              {
+                "text": "MIST Question 2015-16",
+                "url": "https://t.me/PDFHour/10988?single"
+              },
+              {
+                "text": "MIST Question 2016-17",
+                "url": "https://t.me/PDFHour/9747?single"
+              },
+              {
+                "text": "MIST Question 2018-19",
+                "url": "https://t.me/PDFHour/10990?single"
+              },
+              {
+                "text": "MIST Question 2019-20",
+                "url": "https://t.me/PDFHour/10993?single"
+              },
+              {
+                "text": "MIST Question 2020-21",
+                "url": "https://t.me/PDFHour/10995?single"
+              },
+              {
+                "text": "MIST Question 2021-22",
+                "url": "https://t.me/PDFHour/10997?single"
+              },
+              {
+                "text": "MIST Question 2022-23",
+                "url": "https://t.me/PDFHour/10999?single"
+              },
+              {
+                "text": "MIST Question 2023-24",
+                "url": "https://t.me/PDFHour/11000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "অধ্যায়ভিত্তিক",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "জয়কলি MIST সহায়িকা",
+                "url": "https://t.me/PDFHour/11007"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "আর্কিটেকচার",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "জয়কলি MIST সহায়িকা",
+                "url": "https://t.me/PDFHour/11005"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "মডেল টেস্ট",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "জয়কলি মডেল টেস্ট",
+                "url": "https://t.me/PDFHour/11006"
+              },
+              {
+                "text": "Model Tests for Practice",
+                "url": "https://t.me/PDFHour/9754?single"
+              },
+              {
+                "text": "Special Model Test",
+                "url": "https://t.me/PDFHour/9755?single"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "subjects": {
+    "unitA": [
+      {
+        "short": "CE",
+        "fullName": "Civil Engineering",
+        "seat": 120,
+        "reviewLink": "/Civil_Engineering"
+      },
+      {
+        "short": "EWCE",
+        "fullName": "Environment, Water Resources & Coastal Engineering",
+        "seat": 60,
+        "reviewLink": "/Environment_Water_Resources_and_Coastal_Engineering"
+      },
+      {
+        "short": "Arch",
+        "fullName": "Architecture",
+        "seat": 25,
+        "reviewLink": "/Architecture"
+      },
+      {
+        "short": "PME",
+        "fullName": "Petroleum & Mining Engineering",
+        "seat": 25,
+        "reviewLink": "/Petroleum_and_Mining_Engineering"
+      },
+      {
+        "short": "EECE",
+        "fullName": "Electrical, Electronic & Communication Engineering",
+        "seat": 120,
+        "reviewLink": "/Electrical_Electronic_and_Communication_Engineering"
+      },
+      {
+        "short": "CSE",
+        "fullName": "Computer Science and Engineering",
+        "seat": 120,
+        "reviewLink": "/Computer_Science_and_Engineering"
+      },
+      {
+        "short": "ME",
+        "fullName": "Mechanical Engineering",
+        "seat": 120,
+        "reviewLink": "/Mechanical_Engineering"
+      },
+      {
+        "short": "AE",
+        "fullName": "Aeronautical Engineering",
+        "seat": 100,
+        "reviewLink": "/Aeronautical_Engineering"
+      },
+      {
+        "short": "NAME",
+        "fullName": "Naval Architecture and Marine Engineering",
+        "seat": 40,
+        "reviewLink": "/Naval_Architecture_and_Marine_Engineering"
+      },
+      {
+        "short": "IPE",
+        "fullName": "Industrial and Production Engineering",
+        "seat": 50,
+        "reviewLink": "/Industrial_and_Production_Engineering"
+      },
+      {
+        "short": "NSE",
+        "fullName": "Nuclear Science & Engineering",
+        "seat": 40,
+        "reviewLink": "/Nuclear_Science_and_Engineering"
+      },
+      {
+        "short": "BME",
+        "fullName": "Biomedical Engineering",
+        "seat": 40,
+        "reviewLink": "/Biomedical_Engineering"
+      }
+    ]
+  }
+}

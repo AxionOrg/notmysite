@@ -1,0 +1,20 @@
+{
+  "importantLinks": [
+    {
+      "href": "/calendar",
+      "label": "এডমিশন ক্যালেন্ডার",
+      "icon": "ArrowRight"
+    },
+    {
+      "href": "/question-bank",
+      "label": "বই ও প্রশ্নব্যাংক",
+      "icon": "ArrowRight"
+    },
+    { "href": "/courses", "label": "বেসিক কোর্স", "icon": "ArrowRight" }
+  ],
+  "shortcuts": [
+    { "href": "/", "label": "হোম", "icon": "Home" },
+    { "href": "/about", "label": "আমাদের সম্পর্কে", "icon": "Info" },
+    { "href": "/contact", "label": "যোগাযোগ", "icon": "Mail" }
+  ]
+}

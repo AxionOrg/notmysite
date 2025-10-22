@@ -1,0 +1,92 @@
+{
+  "about": {
+    "title": "আমাদের সম্পর্কে",
+    "description": "আমাদের লক্ষ্য, উদ্দেশ্য এবং আমাদের পেছনের কারিগরদের সম্পর্কে জানুন।",
+    "sections": [
+      {
+        "title": "আমাদের লক্ষ্য",
+        "content": "আমাদের মূল লক্ষ্য হলো বাংলাদেশের সকল শিক্ষার্থীর জন্য একটি নির্ভরযোগ্য, সহজলভ্য এবং তথ্যবহুল একটি ডিজিটাল প্ল্যাটফর্ম তৈরি করা। আমরা চাই, শিক্ষার্থীরা যেন ভর্তি পরীক্ষা থেকে শুরু করে একাডেমিক সকল তথ্য এক জায়গায় গুছিয়ে পায় এবং তাদের মূল্যবান সময় ও শ্রম উভয়ই বাঁচে।"
+      },
+      {
+        "title": "আমাদের উদ্দেশ্য",
+        "content": "প্রযুক্তির সাহায্যে শিক্ষার পথে বাধাগুলো দূর করাই আমাদের প্রধান উদ্দেশ্য। আমরা একটি কেন্দ্রীয় তথ্যভান্ডার তৈরি করতে চাই, যেখানে বিশ্ববিদ্যালয়, কলেজ, কোর্স, প্রশ্নব্যাংক, এবং ভর্তি পরীক্ষার সর্বশেষ সকল তথ্য থাকবে, যা শিক্ষার্থীদের স্বপ্ন পূরণে সহায়ক হবে।"
+      },
+      {
+        "title": "আমাদের যাত্রা",
+        "content": "একদল স্বপ্নবাজ তরুণদের হাত ধরে আমাদের এই যাত্রার শুরু। আমরা বিশ্বাস করি, সঠিক তথ্য এবং দিকনির্দেশনা পেলে প্রত্যেক শিক্ষার্থীর পক্ষেই তার লক্ষ্যে পৌঁছানো সম্ভব। সেই বিশ্বাস থেকেই আমরা এই প্ল্যাটফর্মটি তৈরি করেছি এবং এটিকে প্রতিনিয়ত আরও উন্নত করার চেষ্টা করে যাচ্ছি।"
+      }
+    ],
+    "team": {
+      "heading": "আমাদের কারিগর"
+    }
+  },
+  "calculator": {
+    "CIRCULARS": {
+      "medical": [
+        {
+          "title": "Medical Circular 2025 - A",
+          "desc": "Admission circular for Medical (sample)."
+        },
+        {
+          "title": "Medical Notice - Scholarships",
+          "desc": "Medical scholarship notice."
+        }
+      ],
+      "engineering": [
+        {
+          "title": "Engineering Circular 2025",
+          "desc": "Admission circular for Engineering."
+        },
+        {
+          "title": "Engineering Eligibility FAQ",
+          "desc": "Important FAQ and schedule."
+        }
+      ],
+      "university": [
+        {
+          "title": "University General Circular",
+          "desc": "General admission circular."
+        },
+        {
+          "title": "Merit & Waiting List Info",
+          "desc": "Merit list schedule and rules."
+        }
+      ]
+    },
+    "THRESHOLDS": {
+      "medical": 85,
+      "engineering": 80,
+      "university": 60
+    }
+  },
+  "contact": {
+    "title": "যোগাযোগ করুন",
+    "description": "যেকোনো প্রয়োজনে, প্রশ্ন বা মতামতের জন্য আমাদের সাথে যোগাযোগ করুন।",
+    "contactPoints": [
+      {
+        "icon": "Mail",
+        "title": "ইমেইল",
+        "link": "mailto:mail@mnr.world",
+        "linkText": "mail@mnr.world"
+      },
+      {
+        "icon": "Send",
+        "title": "টেলিগ্রাম",
+        "link": "https://t.me/MNRfrom2020",
+        "linkText": "@MNRfrom2020"
+      },
+      {
+        "icon": "Facebook",
+        "title": "ফেসবুক",
+        "link": "https://facebook.com/MNRfrom2020",
+        "linkText": "@MNRfrom2020"
+      },
+      {
+        "icon": "Instagram",
+        "title": "ইন্সটাগ্রাম",
+        "link": "https://instagram.com/MNRfrom2020",
+        "linkText": "@MNRfrom2020"
+      }
+    ]
+  }
+}

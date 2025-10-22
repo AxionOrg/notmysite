@@ -1,0 +1,745 @@
+{
+  "admissionInfo": {
+    "title": "ভর্তি তথ্য",
+    "apply": {
+      "title": "আবেদন",
+      "startDate": "-",
+      "endDate": "-",
+      "fees": [
+        {
+          "unit": "ক, খ, গ ইউনিট",
+          "amount": "১৫০০৳"
+        },
+        {
+          "unit": "আর্কিটেকচার",
+          "amount": "২০০০৳ (বিজ্ঞান)"
+        }
+      ],
+      "helpfulLinks": [
+        {
+          "label": "এডমিশন গাইডলাইন",
+          "url": "https://gstadmission.ac.bd/site/application-guideline"
+        },
+        {
+          "label": "ফটো গাইডলাইন",
+          "url": "https://gstadmission.ac.bd/site/photo-guideline"
+        }
+      ],
+      "link": "https://gstadmission.ac.bd/",
+      "qualificationTitle": "আবেদনের যোগ্যতাঃ",
+      "sscBatch": "-",
+      "hscBatch": "-",
+      "secondTime": "আছে"
+    },
+    "unitRequirements": {
+      "title": "ইউনিট ও বিভাগ ভিত্তিক শর্ত",
+      "units": [
+        {
+          "name": "A",
+          "departments": [
+            {
+              "name": "বিজ্ঞান বিভাগ",
+              "requirement": "বিজ্ঞান শাখা হতে এইচএসসি/সমমান পরীক্ষায় উত্তীর্ণ আবেদনকারীদের এসএসসি/সমমান ও এইচএসসি/সমমান উভয় পরীক্ষায় (৪র্থ বিষয়সহ) ন্যূনতম জিপিএ ৩.৫০ সহ সর্বমোট জিপিএ কমপক্ষে ৮.০০ থাকতে হবে। সাধারণ শিক্ষা বোর্ডের বিজ্ঞান শাখাসহ মাদ্রাসা বোর্ড (বিজ্ঞান) এবং ভোকেশনাল (এইচএসসি) বিজ্ঞান শাখা হিসাবে বিবেচিত হবে।"
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "departments": [
+            {
+              "name": "মানবিক বিভাগ",
+              "requirement": "মানবিক শাখা হতে এইচএসসি/সমমান পরীক্ষায় উত্তীর্ণ আবেদনকারীদের এসএসসি/সমমান ও এইচএসসি/সমমান উভয় পরীক্ষায় (৪র্থ বিষয়সহ) ন্যূনতম জিপিএ ৩.০০ সহ সর্বমোট জিপিএ কমপক্ষে ৬.০০ থাকতে হবে। সাধারণ শিক্ষা বোর্ডের মানবিক শাখাসহ মিউজিক, গার্হস্থ্য অর্থনীতি এবং মাদ্রাসা বোর্ড (সাধারণ, মুজাব্বিদ) মানবিক শাখা হিসাবে বিবেচিত হবে।"
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "departments": [
+            {
+              "name": "ব্যবসা বিভাগ",
+              "requirement": "বাণিজ্য শাখা হতে এইচএসসি/সমমান পরীক্ষায় উত্তীর্ণ আবেদনকারীদের এসএসসি/সমমান ও এইচএসসি/সমমান উভয় পরীক্ষায় (৪র্থ বিষয়সহ) ন্যূনতম জিপিএ ৩.০০ সহ সর্বমোট জিপিএ কমপক্ষে ৬.৫০ থাকতে হবে। সাধারণ শিক্ষা বোর্ডের বাণিজ্য শাখাসহ ডিপ্লোমা ইন বিজনেস স্টাডিজ, ব্যবসায় ব্যবস্থাপনা (এইচএসসি) এবং ডিপ্লোমা ইন কমার্স বাণিজ্য শাখা হিসাবে বিবেচিত হবে।"
+            }
+          ]
+        }
+      ]
+    },
+    "improvementPolicy": {
+      "title": "ইউনিট পরিবর্তনের নিয়ম",
+      "details": "অন্যান্য ইউনিভার্সিটির মতো সরাসরি বিভাগ পরিবর্তন করে পরীক্ষা দেয়ার সুযোগ নেই। নিজ নিজ বিভাগেই পরীক্ষা দিতে হবে। এরপর সেই রেজাল্টের উপর ভিত্তি করে অন্য বিভাগের সাবজেক্টে আবেদন করা যাবে।<br/><br/><b>অর্থাৎ, ধরো তুমি বিজ্ঞান বিভাগের।</b> এক্ষেত্রে, তোমাকে বিজ্ঞান বিভাগেই এক্সাম দিতে হবে। এরপর সেই নাম্বার দিয়ে মানবিক বা ব্যবসা বিভাগের বিষয়ে আবেদন করা যাবে।"
+    },
+    "admitCard": {
+      "title": "প্রবেশপত্র",
+      "startDate": "-",
+      "endDate": "-",
+      "link": "https://gstadmission.ac.bd/",
+      "note": "রুম নম্বর সহ এডমিট কার্ড পরীক্ষা শুরুর ২ দিন আগে ডাউনলোড করা যাবে।"
+    },
+    "examDate": {
+      "title": "পরীক্ষার সময়কাল",
+      "dates": [
+        {
+          "unit": "A",
+          "date": "-"
+        },
+        {
+          "unit": "B",
+          "date": "-"
+        },
+        {
+          "unit": "C",
+          "date": "-"
+        }
+      ],
+      "note": {
+        "text": "অ্যাডমিশন ক্যালেন্ডার",
+        "link": "/calendar"
+      },
+      "customNote": "(নির্বাচনের পর পরীক্ষা হওয়ার সম্ভাবনা বেশি)"
+    },
+    "examCenter": {
+      "title": "ভর্তি পরীক্ষার কেন্দ্র",
+      "location": "গুচ্ছভুক্ত সকল বিশ্ববিদ্যালয়ে",
+      "locationLink": "https://t.me/Study_on_Telegram/14174",
+      "note": "আর্কিটেকচারগুলোর পরীক্ষা শুধুমাত্র নিজ নিজ ইউনিভার্সিটিতে হবে। বাকি সব ইউনিটের পরীক্ষা গুচ্ছভুক্ত সকল বিশ্ববিদ্যালয়ে হবে।"
+    },
+    "generalInfo": {
+      "points": [
+        {
+          "label": "সিলেবাস",
+          "value": "অজানা"
+        },
+        {
+          "label": "সেকেন্ড টাইম",
+          "value": "আছে"
+        },
+        {
+          "label": "নেগেটিভ মার্কিং",
+          "value": "প্রতি ভুলের জন্য ০.২৫ নম্বর কাটা যাবে"
+        },
+        {
+          "label": "ক্যালকুলেটর",
+          "value": "ব্যবহার করা যাবে না"
+        }
+      ]
+    },
+    "result": {
+      "title": "ভর্তি পরীক্ষার ফলাফল",
+      "date": "-",
+      "link": "https://gstadmission.ac.bd/"
+    }
+  },
+  "historyAndMap": {
+    "history": {
+      "title": "GST গুচ্ছের সংক্ষিপ্ত ইতিহাস",
+      "paragraphs": [
+        "বিশ্ববিদ্যালয়ে ভর্তিচ্ছু শিক্ষার্থীদের ভোগান্তি কমাতে ২০২০ সালের ১৯ ডিসেম্বর প্রথমবারের মতো দেশের ২০টি সরকারি বিশ্ববিদ্যালয়ের উপাচার্যরা গুচ্ছ পদ্ধতিতে ২০২০-২১ শিক্ষাবর্ষের জন্য জিএসটি পদ্ধতিতে ভর্তি পরীক্ষা বাস্তবায়নের সিদ্ধান্ত গ্রহণ করেন। পরের শিক্ষাবর্ষে আরও দুটি যোগ হয়ে মোট ২২টি বিশ্ববিদ্যালয় গুচ্ছের অন্তর্ভূক্ত হয়। গুচ্ছ ভর্তি পরীক্ষা সার্কুলার ২০২৩ অনুযায়ী নতুন আরো ২টি বিশ্ববিদ্যালয় গুচ্ছ ভর্তি পরীক্ষার অন্তর্ভুক্ত হয়ে ২০২২-২৩ ভর্তি সেশনে ২৪টি বিশ্ববিদ্যালয় গুচ্ছ ভর্তি প্রক্রিয়ায় অংশ নেয়।",
+        "২০২৪-২৫ শিক্ষাবর্ষ থেকে জগন্নাথ বিশ্ববিদ্যালয়, শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়, খুলনা বিশ্ববিদ্যালয়, হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় এবং কুমিল্লা বিশ্ববিদ্যালয় গুচ্ছ ভর্তি পরীক্ষা থেকে বের হয়ে নিজস্ব প্রক্রিয়ায় শিক্ষার্থী ভর্তি করার সিদ্ধান্ত গ্রহণ করে।"
+      ],
+      "source": {
+        "label": "উৎস",
+        "links": [
+          {
+            "text": "উইকিপিডিয়া প্রতিবেদন (জিএসটি গুচ্ছ)",
+            "url": "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%9F%E0%A6%BF_%E0%A6%97%E0%A7%81%E0%A6%9A%E0%A7%8D%E0%A6%9B_%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF_%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE"
+          }
+        ]
+      }
+    },
+    "mapLocations": {
+      "title": "গুচ্ছভুক্ত বিশ্ববিদ্যালয়ের গুগল ম্যাপ লোকেশন",
+      "categories": [
+        {
+          "name": "বিশ্ববিদ্যালয়সমূহ",
+          "locations": [
+            {
+              "name": "ইসলামী বিশ্ববিদ্যালয়, কুষ্টিয়া",
+              "url": "https://maps.app.goo.gl/FwyyPJWabQmkisGT8"
+            },
+            {
+              "name": "গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/XYFcsraqGNcQf47MA"
+            },
+            {
+              "name": "নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/LN6QBugkoyzH7VA79"
+            },
+            {
+              "name": "বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর",
+              "url": "https://maps.app.goo.gl/VJfuN7rABskweWXx8"
+            },
+            {
+              "name": "জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়, ত্রিশাল",
+              "url": "https://maps.app.goo.gl/yrG4W8tNxDVLpkaH6"
+            },
+            {
+              "name": "পাবনা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/W5f2kY7NNVLCZqpUA"
+            },
+            {
+              "name": "যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/itozW2xRKbcYNV3s6"
+            },
+            {
+              "name": "মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/dbuXYsmFDwD3f4Cv7"
+            },
+            {
+              "name": "পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/7cv5qUsZk6UmadLk8"
+            },
+            {
+              "name": "জামালপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/8WAxkar5Rya2kNrHA"
+            },
+            {
+              "name": "রবীন্দ্র বিশ্ববিদ্যালয়, সিরাজগঞ্জ",
+              "url": "https://maps.app.goo.gl/AXxCRiGiM793hSKR6"
+            },
+            {
+              "name": "পিরোজপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/Vv9Fd7YyDVPjJwzQ9"
+            },
+            {
+              "name": "রাঙামাটি বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/54chT6XGL3hGnMLe6"
+            },
+            {
+              "name": "সুনামগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/8kUrUbxYkvdS9of38"
+            },
+            {
+              "name": "কিশোরগঞ্জ বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/KvfLMGxKsVSx2oeE8"
+            },
+            {
+              "name": "গাজীপুর ডিজিটাল ইউনিভার্সিটি",
+              "url": "https://maps.app.goo.gl/EjxzkLsADDAoFDkP8"
+            },
+            {
+              "name": "চাঁদপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/XpxKaxTb1qSosmxa9"
+            },
+            {
+              "name": "নেত্রকোণা বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/PPgiWEVe3w6Sr69F9"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "stats": [
+    {
+      "value": "১৯টি",
+      "label": "বিশ্ববিদ্যালয়"
+    },
+    {
+      "value": "৮৪টি+",
+      "label": "বিষয়"
+    },
+    {
+      "value": "১৩,০০০টি+",
+      "label": "আসন"
+    }
+  ],
+  "circular": {
+    "title": "সম্পূর্ণ সার্কুলার",
+    "note": "(⚠ নোট: সর্বশেষ সার্কুলার এখনও প্রকাশিত হয়নি। পূর্ববর্তী বছরের সার্কুলার দেখে আইডিয়া নিতে পারেন।)",
+    "downloadLink": "https://t.me/Study_on_Telegram/14079"
+  },
+  "previousCirculars": [
+    {
+      "href": "https://t.me/Study_on_Telegram/14079",
+      "text": "GST Circular 2024-25 (All Unit)"
+    },
+    {
+      "href": "https://t.me/Study_on_Telegram/11573",
+      "text": "GST Circular 2023-24 (All Unit)"
+    },
+    {
+      "href": "https://t.me/Study_on_Telegram/8929",
+      "text": "GST Circular 2022-23 (All Unit)"
+    },
+    {
+      "href": "https://t.me/Study_on_Telegram/2554",
+      "text": "GST Circular 2021-22 (All Unit)"
+    }
+  ],
+  "links": [
+    [
+      { "href": "/gst#Circular", "label": "সার্কুলার" },
+      { "href": "/gst#QuestionBank", "label": "প্রশ্নব্যাংক" }
+    ],
+    [
+      {
+        "href": "https://gstadmission.ac.bd/",
+        "label": "ভর্তি ওয়েবসাইট",
+        "target": "_blank",
+        "rel": "noreferrer noopener"
+      },
+      {
+        "href": "https://gstadmission.ac.bd/site/gst-universities",
+        "label": "গুচ্ছভুক্ত বিশ্ববিদ্যালয়",
+        "target": "_blank",
+        "rel": "noreferrer noopener"
+      }
+    ],
+    [
+      {
+        "href": "https://gstadmission.ac.bd/",
+        "label": "আবেদন | প্রবেশপত্র | ফলাফল",
+        "target": "_blank",
+        "rel": "noreferrer noopener",
+        "colSpan": 2
+      }
+    ]
+  ],
+  "questionBanks": {
+    "duUnitA": [
+      {
+        "title": "সালের প্রশ্ন",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "GST Question 2020-2021",
+                "url": "https://t.me/PDFHour/9837"
+              },
+              {
+                "text": "GST Question 2021-2022",
+                "url": "https://t.me/PDFHour/9838"
+              },
+              {
+                "text": "GST Question 2022-2023",
+                "url": "https://t.me/PDFHour/9839"
+              },
+              {
+                "text": "GST Question 2023-2024",
+                "url": "https://t.me/PDFHour/10398?single"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "অধ্যায়ভিত্তিক প্রশ্নব্যাংক",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "নেটওয়ার্ক গুচ্ছ ভর্তি সহায়িকা",
+                "url": "https://t.me/PDFHour/9817"
+              },
+              {
+                "text": "জয়কলি গুচ্ছ এইড",
+                "url": "https://t.me/PDFHour/10018"
+              },
+              {
+                "text": "উদ্ভাস বিজ্ঞান ও প্রযুক্তি প্রশ্নব্যাংক",
+                "url": "https://t.me/PDFHour/9825"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "সালভিত্তিক প্রশ্নব্যাংক",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "জয়কলি গুচ্ছ এইড (১ম অংশ)",
+                "url": "https://t.me/PDFHour/9836"
+              },
+              {
+                "text": "জয়কলি গুচ্ছ এইড (২য় অংশ)",
+                "url": "https://t.me/PDFHour/10006"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "ইউনিভার্সিটি ভিত্তিক প্রশ্নবাংক",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "ইসলামী বিশ্ববিদ্যালয়, কুষ্টিয়া",
+                "url": "/iu#QuestionBank"
+              },
+              {
+                "text": "গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/gstu#QuestionBank"
+              },
+              {
+                "text": "নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/nstu#QuestionBank"
+              },
+              {
+                "text": "বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর",
+                "url": "/brur#QuestionBank"
+              },
+              {
+                "text": "জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়, ত্রিশাল",
+                "url": "/jkkniu#QuestionBank"
+              },
+              {
+                "text": "পাবনা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/pust#QuestionBank"
+              },
+              {
+                "text": "যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/just#QuestionBank"
+              },
+              {
+                "text": "মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/mbstu#QuestionBank"
+              },
+              {
+                "text": "পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/pstu#QuestionBank"
+              },
+              {
+                "text": "জামালপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/jstu#QuestionBank"
+              },
+              {
+                "text": "রবীন্দ্র বিশ্ববিদ্যালয়, সিরাজগঞ্জ",
+                "url": "/rub#QuestionBank"
+              },
+              {
+                "text": "পিরোজপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/prstu#QuestionBank"
+              },
+              {
+                "text": "রাঙামাটি বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/rmstu#QuestionBank"
+              },
+              {
+                "text": "সুনামগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/sstu#QuestionBank"
+              },
+              {
+                "text": "কিশোরগঞ্জ বিশ্ববিদ্যালয়",
+                "url": "/kiu#QuestionBank"
+              },
+              {
+                "text": "গাজীপুর ডিজিটাল ইউনিভার্সিটি",
+                "url": "/uftb#QuestionBank"
+              },
+              {
+                "text": "চাঁদপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/cstu#QuestionBank"
+              },
+              {
+                "text": "নেত্রকোণা বিশ্ববিদ্যালয়",
+                "url": "/neu#QuestionBank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "সাজেশন",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "জয়কলি গুচ্ছ এইড",
+                "url": "https://t.me/PDFHour/9863"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "মডেল টেস্ট",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "জয়কলি গুচ্ছ এইড (অল্প কিছু)",
+                "url": "https://t.me/PDFHour/10017"
+              },
+              {
+                "text": "জয়কলি গুচ্ছ এইড (৫০ সেট)",
+                "url": "https://t.me/PDFHour/10017"
+              },
+              {
+                "text": "উদ্ভাস ফাইনাল মডেল টেস্ট",
+                "url": "https://t.me/PDFHour/10055"
+              },
+              {
+                "text": "নেটওয়ার্ক গুচ্ছ চর্চা মডেল টেস্ট",
+                "url": "https://t.me/PDFHour/10057"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "শেষ সময়ের রিভিশন",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "পদার্থবিজ্ঞান",
+                "url": "https://t.me/PDFHour/10062?single"
+              },
+              {
+                "text": "রসায়ন",
+                "url": "https://t.me/PDFHour/10063?single"
+              },
+              {
+                "text": "জীববিজ্ঞান",
+                "url": "https://t.me/PDFHour/10065?single"
+              },
+              {
+                "text": "উচ্চতর গণিত",
+                "url": "https://t.me/PDFHour/10064?single"
+              },
+              {
+                "text": "বাংলা",
+                "url": "https://t.me/PDFHour/10066?single"
+              },
+              {
+                "text": "ইংরেজী",
+                "url": "https://t.me/PDFHour/10067?single"
+              },
+              {
+                "text": "একত্রে সব",
+                "url": "https://t.me/PDFHour/10068"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "duUnitB": [
+      {
+        "title": "সালের প্রশ্ন",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "GST Question 2020-2021",
+                "url": "https://t.me/PDFHour/9931"
+              },
+              {
+                "text": "GST Question 2021-2022",
+                "url": "https://t.me/PDFHour/9932"
+              },
+              {
+                "text": "GST Question 2022-2023",
+                "url": "https://t.me/PDFHour/9933"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "বিজয় গুচ্ছ প্রশ্নবাংক",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "BRUR",
+                "url": "https://t.me/PDFHour/9879"
+              },
+              {
+                "text": "BSFMSTU",
+                "url": "https://t.me/PDFHour/9880"
+              },
+              {
+                "text": "BSMRSTU",
+                "url": "https://t.me/PDFHour/9881"
+              },
+              {
+                "text": "BU",
+                "url": "https://t.me/PDFHour/9882"
+              },
+              {
+                "text": "CoU",
+                "url": "https://t.me/PDFHour/9883"
+              },
+              {
+                "text": "HSTU",
+                "url": "https://t.me/PDFHour/9884"
+              },
+              {
+                "text": "IU",
+                "url": "https://t.me/PDFHour/9885"
+              },
+              {
+                "text": "JKKNIU",
+                "url": "https://t.me/PDFHour/9886"
+              },
+              {
+                "text": "JnU",
+                "url": "https://t.me/PDFHour/9887"
+              },
+              {
+                "text": "JUST",
+                "url": "https://t.me/PDFHour/9888"
+              },
+              {
+                "text": "KU",
+                "url": "https://t.me/PDFHour/9889"
+              },
+              {
+                "text": "MBSTU",
+                "url": "https://t.me/PDFHour/9890"
+              },
+              {
+                "text": "NSTU",
+                "url": "https://t.me/PDFHour/9891"
+              },
+              {
+                "text": "PUST",
+                "url": "https://t.me/PDFHour/9892"
+              },
+              {
+                "text": "RbU",
+                "url": "https://t.me/PDFHour/9893"
+              },
+              {
+                "text": "ShU",
+                "url": "https://t.me/PDFHour/9894"
+              },
+              {
+                "text": "SUST",
+                "url": "https://t.me/PDFHour/9895"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "গুচ্ছ সামিট",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "BRUR, JKKNIU, CoU, BU",
+                "url": "https://t.me/PDFHour/9897"
+              },
+              {
+                "text": "BSMRSTU, HSTU",
+                "url": "https://t.me/PDFHour/9898"
+              },
+              {
+                "text": "IU, JnU",
+                "url": "https://t.me/PDFHour/9899"
+              },
+              {
+                "text": "NSTU, PUST, RMSTU",
+                "url": "https://t.me/PDFHour/9900"
+              },
+              {
+                "text": "ShU, SUST, JUST",
+                "url": "https://t.me/PDFHour/9901"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "ইউনিভার্সিটি ভিত্তিক প্রশ্নবাংক",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "ইসলামী বিশ্ববিদ্যালয়, কুষ্টিয়া",
+                "url": "/iu#QuestionBank"
+              },
+              {
+                "text": "গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/gstu#QuestionBank"
+              },
+              {
+                "text": "নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/nstu#QuestionBank"
+              },
+              {
+                "text": "বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর",
+                "url": "/brur#QuestionBank"
+              },
+              {
+                "text": "জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়, ত্রিশাল",
+                "url": "/jkkniu#QuestionBank"
+              },
+              {
+                "text": "পাবনা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/pust#QuestionBank"
+              },
+              {
+                "text": "যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/just#QuestionBank"
+              },
+              {
+                "text": "মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/mbstu#QuestionBank"
+              },
+              {
+                "text": "পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/pstu#QuestionBank"
+              },
+              {
+                "text": "জামালপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/jstu#QuestionBank"
+              },
+              {
+                "text": "রবীন্দ্র বিশ্ববিদ্যালয়, সিরাজগঞ্জ",
+                "url": "/rub#QuestionBank"
+              },
+              {
+                "text": "পিরোজপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/prstu#QuestionBank"
+              },
+              {
+                "text": "রাঙামাটি বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/rmstu#QuestionBank"
+              },
+              {
+                "text": "সুনামগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/sstu#QuestionBank"
+              },
+              {
+                "text": "কিশোরগঞ্জ বিশ্ববিদ্যালয়",
+                "url": "/kiu#QuestionBank"
+              },
+              {
+                "text": "গাজীপুর ডিজিটাল ইউনিভার্সিটি",
+                "url": "/uftb#QuestionBank"
+              },
+              {
+                "text": "চাঁদপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                "url": "/cstu#QuestionBank"
+              },
+              {
+                "text": "নেত্রকোণা বিশ্ববিদ্যালয়",
+                "url": "/neu#QuestionBank"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "duUnitC": [
+      {
+        "title": "গ ইউনিট",
+        "items": [
+          {
+            "links": []
+          }
+        ]
+      }
+    ]
+  },
+  "subjects": {
+    "unitA": [],
+    "unitB": [],
+    "unitC": []
+  }
+}

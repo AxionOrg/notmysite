@@ -1,0 +1,34 @@
+[
+  {
+    "title": "ভার্সিটি “ক” মাস্টার প্রশ্নব্যাংক",
+    "author": "উদ্ভাস",
+    "description": "ঢাকা বিশ্ববিদ্যালয় ও অন্যান্য পাবলিক বিশ্ববিদ্যালয়ের বিজ্ঞান ইউনিটের প্রশ্নব্যাংক।",
+    "logo": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Icon/Udvash.png",
+    "href": "https://t.me/PDFHour/10214",
+    "bgColor": "bg-blue-400"
+  },
+  {
+    "title": "ভার্সিটি “খ” মাস্টার প্রশ্নব্যাংক",
+    "author": "উদ্ভাস",
+    "description": "ঢাকা বিশ্ববিদ্যালয় ও অন্যান্য পাবলিক বিশ্ববিদ্যালয়ের মানবিক ইউনিটের প্রশ্নব্যাংক।",
+    "logo": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Icon/Udvash.png",
+    "href": "https://t.me/PDFHour/10733",
+    "bgColor": "bg-purple-400"
+  },
+  {
+    "title": "ইঞ্জিনিয়ারিং মাস্টার প্রশ্নব্যাংক",
+    "author": "উদ্ভাস",
+    "description": "বুয়েট, কুয়েট, রুয়েট, চুয়েট সহ সকল ইঞ্জিনিয়ারিং বিশ্ববিদ্যালয়ের প্রশ্নব্যাংক।",
+    "logo": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Icon/Udvash.png",
+    "href": "https://t.me/PDFHour/10424",
+    "bgColor": "bg-yellow-500"
+  },
+  {
+    "title": "মেডিকেল মাস্টার প্রশ্নব্যাংক",
+    "author": "উন্মেষ",
+    "description": "মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার জন্য বিশেষায়িত প্রশ্নব্যাংক।",
+    "logo": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Icon/Unmesh.png",
+    "href": "https://t.me/PDFHour/10702",
+    "bgColor": "bg-green-500"
+  }
+]

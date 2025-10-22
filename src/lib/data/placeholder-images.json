@@ -1,0 +1,20 @@
+[
+  {
+    "id": "study-platform",
+    "description": "Static background learning image",
+    "imageUrl": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Image/Learning-static.png",
+    "imageHint": "learning illustration"
+  },
+  {
+    "id": "study-platform-character",
+    "description": "Animated moving parts of learning image",
+    "imageUrl": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Image/Learning-moving.png",
+    "imageHint": "animated learning"
+  },
+  {
+    "id": "study-platform-character-2",
+    "description": "Second animated moving part of learning image",
+    "imageUrl": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Image/Learning-second-moving.png",
+    "imageHint": "animated elements"
+  }
+]

@@ -1,0 +1,51 @@
+/* Hind Siliguri Regular */
+@font-face {
+  font-family: "Hind Siliguri";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Hind-Siliguri/Hind-Siliguri-Regular.ttf")
+    format("truetype");
+}
+
+/* Hind Siliguri Regular Italic */
+@font-face {
+  font-family: "Hind Siliguri";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/Hind-Siliguri/Hind-Siliguri-Regular-Italic.ttf")
+    format("truetype");
+}
+
+/* Hind Siliguri Medium */
+@font-face {
+  font-family: "Hind Siliguri";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Hind-Siliguri/Hind-Siliguri-Medium.ttf") format("truetype");
+}
+
+/* Hind Siliguri Medium Italic */
+@font-face {
+  font-family: "Hind Siliguri";
+  font-style: italic;
+  font-weight: 500;
+  src: url("../fonts/Hind-Siliguri/Hind-Siliguri-Medium-Italic.ttf")
+    format("truetype");
+}
+
+/* Hind Siliguri Bold */
+@font-face {
+  font-family: "Hind Siliguri";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Hind-Siliguri/Hind-Siliguri-Bold.ttf") format("truetype");
+}
+
+/* Hind Siliguri Bold Italic */
+@font-face {
+  font-family: "Hind Siliguri";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts/Hind-Siliguri/Hind-Siliguri-Bold-Italic.ttf")
+    format("truetype");
+}

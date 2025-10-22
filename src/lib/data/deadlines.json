@@ -1,0 +1,699 @@
+
+[
+  {
+    "id": "medical",
+    "universityNameAndUnit": "মেডিকেল",
+    "department": "science",
+    "examDetails": {
+      "date": "১২ ডিসেম্বর",
+      "ExamCountdownDate": "2025-12-12T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "du",
+    "universityNameAndUnit": "ঢাবি*",
+    "department": "mixed",
+    "examDetails": {
+      "date": null,
+      "ExamCountdownDate": null
+    },
+    "applicationDetails": {
+      "StartAndEndDate": "২৯ অক্টোবর - ১৬ নভেম্বর",
+      "ApplyCountdownDate": "2025-11-16T23:59:00+06:00",
+      "fee": "-",
+      "link": "https://admission.eis.du.ac.bd/bn/408b7c8ad06e4d9954fa2d948a01f508"
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "du-a",
+    "universityNameAndUnit": "ঢাবি (ক)*",
+    "department": "science",
+    "examDetails": {
+      "date": "২০ ডিসেম্বর",
+      "ExamCountdownDate": "2025-12-20T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "du-b",
+    "universityNameAndUnit": "ঢাবি (খ)*",
+    "department": "arts",
+    "examDetails": {
+      "date": "১৩ ডিসেম্বর",
+      "ExamCountdownDate": "2025-12-13T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "du-c",
+    "universityNameAndUnit": "ঢাবি (গ)*",
+    "department": "commerce",
+    "examDetails": {
+      "date": "০৬ ডিসেম্বর",
+      "ExamCountdownDate": "2025-12-06T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "du-iba",
+    "universityNameAndUnit": "ঢাবি (IBA)*",
+    "department": "mixed",
+    "examDetails": {
+      "date": "২৮ নভেম্বর",
+      "ExamCountdownDate": "2025-11-28T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "du-cha",
+    "universityNameAndUnit": "ঢাবি (চ)*",
+    "department": "mixed",
+    "examDetails": {
+      "date": "২৯ নভেম্বর",
+      "ExamCountdownDate": "2025-11-29T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "ru-c",
+    "universityNameAndUnit": "রাবি (গ)",
+    "department": "science",
+    "examDetails": {
+      "date": "১৬ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-16T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "ru-a",
+    "universityNameAndUnit": "রাবি (ক)",
+    "department": "arts",
+    "examDetails": {
+      "date": "১৭ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-17T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "ru-b",
+    "universityNameAndUnit": "রাবি (খ)",
+    "department": "commerce",
+    "examDetails": {
+      "date": "২৪ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-24T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "mist",
+    "universityNameAndUnit": "MIST",
+    "department": "science",
+    "examDetails": {
+      "date": "২৭ ডিসেম্বর",
+      "ExamCountdownDate": "2025-12-27T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": "০২ নভেম্বর - ২৬ নভেম্বর",
+      "ApplyCountdownDate": "2025-11-26T23:59:00+06:00",
+      "fee": "\"ক\" গ্রুপ: ১২০০৳<br/>\"খ\" গ্রুপ: ১৪০০৳",
+      "link": "https://admission.mist.ac.bd/"
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": "১৫ ডিসেম্বর - BE",
+      "DownloadCountdownDate": "2025-12-27T08:59:00+06:00",
+      "link": "http://mist.teletalk.com.bd/admitcard/"
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "cu",
+    "universityNameAndUnit": "চবি*",
+    "department": "mixed",
+    "examDetails": {
+      "date": null,
+      "ExamCountdownDate": null
+    },
+    "applicationDetails": {
+      "StartAndEndDate": "০১ ডিসেম্বর - ১৫ ডিসেম্বর",
+      "ApplyCountdownDate": "2025-12-15T23:59:00+06:00",
+      "fee": "-",
+      "link": "https://admission.cu.ac.bd/"
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "cu-a",
+    "universityNameAndUnit": "চবি (এ)*",
+    "department": "science",
+    "examDetails": {
+      "date": "০২ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-02T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "cu-b",
+    "universityNameAndUnit": "চবি (বি)*",
+    "department": "arts",
+    "examDetails": {
+      "date": "০৩ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-03T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "cu-c",
+    "universityNameAndUnit": "চবি (সি)*",
+    "department": "commerce",
+    "examDetails": {
+      "date": "০৯ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-09T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "cu-d",
+    "universityNameAndUnit": "চবি (ডি)*",
+    "department": "mixed",
+    "examDetails": {
+      "date": "১০ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-10T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "cu-b1",
+    "universityNameAndUnit": "চবি (বি১)*",
+    "department": "mixed",
+    "examDetails": {
+      "date": "০৫ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-05T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "cu-b2",
+    "universityNameAndUnit": "চবি (বি২)*",
+    "department": "mixed",
+    "examDetails": {
+      "date": "০৬ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-06T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "cu-d1",
+    "universityNameAndUnit": "চবি (ডি১)*",
+    "department": "mixed",
+    "examDetails": {
+      "date": "১২ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-12T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "bup",
+    "universityNameAndUnit": "BUP",
+    "department": "mixed",
+    "examDetails": {
+      "date": null,
+      "ExamCountdownDate": null
+    },
+    "applicationDetails": {
+      "StartAndEndDate": "১০ নভেম্বর - ৩০ নভেম্বর",
+      "ApplyCountdownDate": "2025-11-30T23:59:00+06:00",
+      "fee": "-",
+      "link": "https://admission.bup.edu.bd/Admission/Home"
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "bup-fass",
+    "universityNameAndUnit": "BUP (FASS)",
+    "department": "arts",
+    "examDetails": {
+      "date": "০৯ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-09T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "bup-fsss",
+    "universityNameAndUnit": "BUP (FSSS)",
+    "department": "arts",
+    "examDetails": {
+      "date": "০৯ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-09T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "bup-fst",
+    "universityNameAndUnit": "BUP (FST)",
+    "department": "science",
+    "examDetails": {
+      "date": "১০ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-10T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "bup-fbs1",
+    "universityNameAndUnit": "BUP (FBS 1)",
+    "department": "commerce",
+    "examDetails": {
+      "date": "১০ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-10T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "bup-fbs2",
+    "universityNameAndUnit": "BUP (FBS 2)",
+    "department": "commerce",
+    "examDetails": {
+      "date": "১৬ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-16T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "bup-fms",
+    "universityNameAndUnit": "BUP (FMS)",
+    "department": "science",
+    "examDetails": {
+      "date": "১৬ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-16T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "ruet-pr",
+    "universityNameAndUnit": "রুয়েট (প্রিলি)*",
+    "department": "science",
+    "examDetails": {
+      "date": "০৩ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-03T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "ruet-wr",
+    "universityNameAndUnit": "রুয়েট (লিখিত)*",
+    "department": "science",
+    "examDetails": {
+      "date": "২৩ জানুয়ারি",
+      "ExamCountdownDate": "2026-01-23T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  },
+  {
+    "id": "aaub",
+    "universityNameAndUnit": "AAUB",
+    "department": "science",
+    "examDetails": {
+      "date": "২৬ ডিসেম্বর",
+      "ExamCountdownDate": "2025-12-26T10:00:00+06:00"
+    },
+    "applicationDetails": {
+      "StartAndEndDate": null,
+      "ApplyCountdownDate": null,
+      "fee": null,
+      "link": null
+    },
+    "admitCardDetails": {
+      "StartAndEndDate": null,
+      "DownloadCountdownDate": null,
+      "link": null
+    },
+    "resultDetails": {
+      "date": null,
+      "link": null
+    }
+  }
+]

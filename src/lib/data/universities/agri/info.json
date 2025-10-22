@@ -1,0 +1,414 @@
+{
+  "admissionInfo": {
+    "title": "ভর্তি তথ্য",
+    "apply": {
+      "title": "আবেদন",
+      "startDate": "-",
+      "endDate": "-",
+      "fees": [
+        {
+          "unit": "",
+          "amount": "১২০০৳ + চার্য"
+        }
+      ],
+      "helpfulLinks": [
+        {
+          "label": "প্রাথমিক যোগ্যতা যাচাই",
+          "url": "https://acas.edu.bd/check-eligibility"
+        }
+      ],
+      "link": "https://acas.edu.bd/",
+      "qualificationTitle": "আবেদনের যোগ্যতাঃ",
+      "sscBatch": "-",
+      "hscBatch": "-",
+      "secondTime": "আছে"
+    },
+    "unitRequirements": {
+      "title": "আবেদনের যোগ্যতা",
+      "units": [
+        {
+          "name": "সাধারণ শর্ত",
+          "departments": [
+            {
+              "name": "✓ ইমপ্রুভ দেয়া পরীক্ষার্থীরাও আবেদন করতে পারবে।"
+            },
+            {
+              "name": "✓ আবেদনকারীর এসএসসি/সমমান এবং এইচএসসি/সমমানের পরীক্ষায় উভয় ক্ষেত্রে প্রতিটিতে চতুর্থ বিষয় ব্যতীত ন্যূনতম জিপিএ ৪.০০ এবং সর্বমোট ন্যূনতম জিপিএ ৮.৫০ থাকতে হবে।"
+            },
+            {
+              "name": "✓ A লেভেল পাসকৃত প্রার্থীর ক্ষেত্রে লেভেল পরীক্ষার অন্তত ৫ টি বিষয়ে এবং A লেvel পরীক্ষায় বিজ্ঞানের অন্তত ২টি বিষয়ে উত্তীর্ণ হতে হবে। উভয় পরীক্ষায় প্রতিটিতে ন্যূনতম জিপিএ ৪.০০ এবং সর্বমোট ন্যূনতম জিপিএ ৮.৫০ থাকতে হবে। এক্ষেত্রে A ও B গ্রেডের জন্য যথাক্রমে ৫ ও ৪ জিপিএ গণনা করা হবে।"
+            }
+          ]
+        }
+      ]
+    },
+    "improvementPolicy": {
+      "title": "ইমপ্রুভমেন্ট ও অন্যান্য",
+      "details": "এখানে শুধুমাত্র বিজ্ঞান বিভাগের শিক্ষার্থীরাই পরীক্ষা দিতে পারবে।"
+    },
+    "admitCard": {
+      "title": "প্রবেশপত্র",
+      "startDate": "-",
+      "endDate": "-",
+      "link": "https://acas.edu.bd/",
+      "note": ""
+    },
+    "examDate": {
+      "title": "পরীক্ষার সময়কাল",
+      "dates": [
+        {
+          "unit": "সকল",
+          "date": "-"
+        }
+      ],
+      "note": {
+        "text": "অ্যাডমিশন ক্যালেন্ডার",
+        "link": "/calendar"
+      }
+    },
+    "examCenter": {
+      "title": "ভর্তি পরীক্ষার কেন্দ্র",
+      "location": "কৃষি গুচ্ছভুক্ত সকল বিশ্ববিদ্যালয়",
+      "locationLink": "https://t.me/Study_on_Telegram/13974",
+      "note": "কৃষি গুচ্ছভুক্ত সকল বিশ্ববিদ্যালয়ের বাহিরেও কেন্দ্র পড়তে পারে"
+    },
+    "generalInfo": {
+      "points": [
+        {
+          "label": "মোট নাম্বার",
+          "value": "১০০ (MCQ)"
+        },
+        {
+          "label": "মোট সময়",
+          "value": "১ ঘণ্টা"
+        },
+        {
+          "label": "প্রশ্ন প্রতি নাম্বার",
+          "value": "১"
+        },
+        {
+          "label": "মানবণ্টন",
+          "value": "<br/>&nbsp;&nbsp;&nbsp;• জীববিজ্ঞান: ৩০<br/>&nbsp;&nbsp;&nbsp;• পদার্থবিজ্ঞান: ২০<br/>&nbsp;&nbsp;&nbsp;• রসায়ন: ২০<br/>&nbsp;&nbsp;&nbsp;• গণিত: ২০<br/>&nbsp;&nbsp;&nbsp;• ইংরেজি: ১০<br/>উল্লেখ্য, ৫টি বিষয়ই দাগাতে হবে।"
+        },
+        {
+          "label": "সিলেবাস",
+          "value": "অজানা"
+        },
+        {
+          "label": "সেকেন্ড টাইম",
+          "value": "আছে"
+        },
+        {
+          "label": "নেগেটিভ মার্কিং",
+          "value": "প্রতি ভুলের জন্য ০.২৫ নম্বর কাটা যাবে"
+        },
+        {
+          "label": "ক্যালকুলেটর",
+          "value": "ব্যবহার করা যাবে না"
+        }
+      ]
+    },
+    "result": {
+      "title": "ভর্তি পরীক্ষার ফলাফল",
+      "date": "-",
+      "link": "https://acas.edu.bd/"
+    }
+  },
+  "historyAndMap": {
+    "history": {
+      "title": "কৃষি গুচ্ছের সংক্ষিপ্ত ইতিহাস",
+      "paragraphs": [
+        "কৃষি গুচ্ছ ভর্তি ব্যবস্থা চালু করার আগে বাংলাদেশে বিভিন্ন কৃষি বিশ্ববিদ্যালয় আলাদাভাবে ভর্তি পরীক্ষা নিতো। এতে শিক্ষার্থীদের একাধিক বিশ্ববিদ্যালয়ে ভর্তির জন্য আলাদাভাবে প্রস্তুতি নিতে হত এবং এটি একটি ব্যাপক চাপ সৃষ্টি করত। এই জটিলতা দূর করতে এবং একটি সমন্বিত ভর্তি ব্যবস্থা তৈরির জন্য ২০১৯ সালে কৃষি গুচ্ছের ধারণাটি আসে।",
+        "২০২২-২৩ শিক্ষাবর্ষে প্রথমবারের মতো কৃষি গুচ্ছের ভর্তি পরীক্ষা অনুষ্ঠিত হয় এবং এরপর থেকেই এই ব্যবস্থাটি কার্যকরভাবে চালু আছে। বর্তমানে ৯টি বিশ্ববিদ্যালয় এই সিস্টেমের সাথে যুক্ত।"
+      ],
+      "source": {
+        "label": "উৎস",
+        "links": [
+          {
+            "text": "উইকিপিডিয়া প্রতিবেদন (কৃষি গুচ্ছ)",
+            "url": "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF_%E0%A6%97%E0%A7%81%E0%A6%9A%E0%A7%8D%E0%A6%9B_%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE_(%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6)"
+          }
+        ]
+      }
+    },
+    "mapLocations": {
+      "title": "গুচ্ছভুক্ত বিশ্ববিদ্যালয়ের গুগল ম্যাপ লোকেশন",
+      "categories": [
+        {
+          "name": "বিশ্ববিদ্যালয়সমূহ",
+          "locations": [
+            {
+              "name": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/PjMwLwZUnFxEg73P7"
+            },
+            {
+              "name": "পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (কৃষি বিভাগ)",
+              "url": "https://maps.app.goo.gl/7GHMoEvCVTZogamz5"
+            },
+            {
+              "name": "চট্টগ্রাম ভেটেরিনারি ও এনিম্যাল সাইন্সেস বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/Qn2gt7mREwVG94yr7"
+            },
+            {
+              "name": "বঙ্গবন্ধু শেখ মুজিবুর রহমান কৃষি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/TQtpehDcXcRkm7xX9"
+            },
+            {
+              "name": "שেরেবাংলা কৃষি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/DiZv3v4Qw6ypuRH39"
+            },
+            {
+              "name": "সিলেট কৃষি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/4GszqTNbhhHTL65E8"
+            },
+            {
+              "name": "খুলনা কৃষি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/fMbQEr5nAxgcfZSs8"
+            },
+            {
+              "name": "হবিগঞ্জ কৃষি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/RsNkF3zzJwvL5mAm7"
+            },
+            {
+              "name": "কুড়িগ্রাম কৃষি বিশ্ববিদ্যালয়",
+              "url": "https://maps.app.goo.gl/3b9tYrmkLFwQmNoS7"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "stats": [
+    {
+      "value": "৯টি",
+      "label": "বিশ্ববিদ্যালয়"
+    },
+    {
+      "value": "৭৬টি+",
+      "label": "বিষয়"
+    },
+    {
+      "value": "৩,৭১৮টি",
+      "label": "আসন"
+    }
+  ],
+  "circular": {
+    "title": "সম্পূর্ণ সার্কুলার",
+    "note": "(⚠ নোট: সর্বশেষ সার্কুলার এখনও প্রকাশিত হয়নি। পূর্ববর্তী বছরের সার্কুলার দেখে আইডিয়া নিতে পারেন।)",
+    "downloadLink": "https://t.me/Study_on_Telegram/13974"
+  },
+  "links": [
+    [
+      { "href": "/agri#Circular", "label": "সার্কুলার" },
+      { "href": "/agri#QuestionBank", "label": "প্রশ্নব্যাংক" }
+    ],
+    [
+      {
+        "href": "https://acas.edu.bd/",
+        "label": "ভর্তি ওয়েবসাইট",
+        "target": "_blank",
+        "rel": "noreferrer noopener"
+      },
+      {
+        "href": "https://acas.edu.bd/assets/static/ACAS-FAQ.pdf",
+        "label": "গুরুত্বপূর্ণ প্রশ্নোত্তর",
+        "target": "_blank",
+        "rel": "noreferrer noopener"
+      }
+    ],
+    [
+      {
+        "href": "https://acas.edu.bd/signin",
+        "label": "আবেদন | প্রবেশপত্র | ফলাফল",
+        "target": "_blank",
+        "rel": "noreferrer noopener",
+        "colSpan": 2
+      }
+    ]
+  ],
+  "previousCirculars": [
+    {
+      "href": "https://t.me/Study_on_Telegram/13974",
+      "text": "Agri Circular 2024-25"
+    },
+    {
+      "href": "https://t.me/Study_on_Telegram/12063",
+      "text": "Agri Circular 2023-24"
+    },
+    {
+      "href": "https://t.me/Study_on_Telegram/9493",
+      "text": "Agri Circular 2022-23"
+    },
+    {
+      "href": "https://t.me/Study_on_Telegram/3038",
+      "text": "Agri Circular 2021-22"
+    }
+  ],
+  "seatInfo": [
+    { "name": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়", "id": "bau" },
+    {
+      "name": "পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (কৃষি বিভাগ)",
+      "id": "pstu"
+    },
+    {
+      "name": "চট্টগ্রাম ভেটেরিনারি ও এনিম্যাল সাইন্সেস বিশ্ববিদ্যালয়",
+      "id": "cvasu"
+    },
+    { "name": "বঙ্গবন্ধু শেখ মুজিবুর রহমান কৃষি বিশ্ববিদ্যালয়", "id": "gau" },
+    { "name": "שেরেবাংলা কৃষি বিশ্ববিদ্যালয়", "id": "sbau" },
+    { "name": "সিলেট কৃষি বিশ্ববিদ্যালয়", "id": "sau" },
+    { "name": "খুলনা কৃষি বিশ্ববিদ্যালয়", "id": "kau" },
+    { "name": "হবিগঞ্জ কৃষি বিশ্ববিদ্যালয়", "id": "hau" },
+    { "name": "কুড়িগ্রাম কৃষি বিশ্ববিদ্যালয়", "id": "kuriau" }
+  ],
+  "questionBanks": {
+    "agri": [
+      {
+        "title": "সালের প্রশ্ন",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "Question of 2019-2020",
+                "url": "https://t.me/PDFHour/10187?single"
+              },
+              {
+                "text": "Question of 2020-2021",
+                "url": "https://t.me/PDFHour/10189?single"
+              },
+              {
+                "text": "Question of 2021-2022",
+                "url": "https://t.me/PDFHour/10191?single"
+              },
+              {
+                "text": "Question of 2022-2023",
+                "url": "https://t.me/PDFHour/10193?single"
+              },
+              {
+                "text": "Question of 2023-2024",
+                "url": "https://t.me/PDFHour/10972?single"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "অধ্যায়ভিত্তিক প্রশ্নব্যাংক",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "নেটওয়ার্ক কৃষি ভর্তি সহায়িকা",
+                "url": "https://t.me/PDFHour/10111"
+              },
+              {
+                "text": "Address Academy",
+                "url": "https://t.me/PDFHour/10986"
+              },
+              {
+                "text": "জয়কলি কৃষি বিচিত্রা",
+                "url": "https://t.me/PDFHour/10226"
+              },
+              {
+                "text": "উদ্ভাস কৃষি প্রশ্নব্যাংক",
+                "url": "https://t.me/PDFHour/10143"
+              },
+              {
+                "text": "রেটিনা কৃষি প্রশ্নব্যাংক",
+                "url": "https://t.me/PDFHour/10150"
+              },
+              {
+                "text": "ভিটামিন কৃষি ভর্তি সহায়িকা",
+                "url": "https://t.me/PDFHour/10137"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "ইউনিভার্সিটির প্রশ্নবাংক",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়",
+                "url": "/bau#QuestionBank"
+              },
+              {
+                "text": "পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (কৃষি বিভাগ)",
+                "url": "/pstu#QuestionBank"
+              },
+              {
+                "text": "চট্টগ্রাম ভেটেরিনারি ও এনিম্যাল সাইন্সেস বিশ্ববিদ্যালয়",
+                "url": "/cvasu#QuestionBank"
+              },
+              {
+                "text": "বঙ্গবন্ধু শেখ মুজিবুর রহমান কৃষি বিশ্ববিদ্যালয়",
+                "url": "/gau#QuestionBank"
+              },
+              {
+                "text": "שেরেবাংলা কৃষি বিশ্ববিদ্যালয়",
+                "url": "/sbau#QuestionBank"
+              },
+              {
+                "text": "সিলেট কৃষি বিশ্ববিদ্যালয়",
+                "url": "/sau#QuestionBank"
+              },
+              {
+                "text": "খুলনা কৃষি বিশ্ববিদ্যালয়",
+                "url": "/kau#QuestionBank"
+              },
+              {
+                "text": "হবিগঞ্জ কৃষি বিশ্ববিদ্যালয়",
+                "url": "/hau#QuestionBank"
+              },
+              {
+                "text": "কুড়িগ্রাম কৃষি বিশ্ববিদ্যালয়",
+                "url": "/kuriau#QuestionBank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "মডেল টেস্ট",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "নেটওয়ার্ক কৃষি গুচ্ছ মডেল টেস্ট",
+                "url": "https://t.me/PDFHour/10479"
+              },
+              {
+                "text": "জয়কলি গুচ্ছ এইড (৫০ সেট)",
+                "url": "https://t.me/PDFHour/10479"
+              },
+              {
+                "text": "উদ্ভাস কৃষি ফাইনাল মডেল টেস্ট",
+                "url": "https://t.me/PDFHour/10479"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "চূড়ান্ত সাজেশন",
+        "items": [
+          {
+            "links": [
+              {
+                "text": "নেটওয়ার্ক লাস্ট নাইট ফাইট",
+                "url": "https://t.me/PDFHour/10238"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "subjects": {
+    "unitA": [],
+    "unitB": [],
+    "unitC": []
+  }
+}

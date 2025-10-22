@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Md Abdullah Al Khalid Alif",
+    "role": "তথ্য সহযোগিতা ও পর্যালোচক",
+    "bio": "বিভিন্ন বিশ্ববিদ্যালয়ের তথ্য ও ফিডব্যাক দিয়ে সহায়তা করেছেন",
+    "imageUrl": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Logo/Alif/Alif.jpg",
+    "social": {
+      "globe": "https://alif-verse.netlify.app/",
+      "send": "https://t.me/ALIF1230",
+      "facebook": "https://facebook.com/withALIF",
+      "instagram": "https://instagram.com/withalif_2025/",
+      "github": "https://github.com/Alif1121"
+    }
+  },
+  {
+    "name": "Iftiar TawSiv",
+    "role": "মার্কেটিং পার্টনার ও পর্যালোচক",
+    "bio": "মার্কেটিং এবং কন্টেন্ট রিভিউয়ের মাধ্যমে সহায়তা করেছেন।",
+    "imageUrl": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Logo/TawSiv/TawSiv.jpg",
+    "social": {
+      "send": "https://t.me/TawSiv",
+      "facebook": "https://facebook.com/TawSiv1",
+      "mail": "mailto:iftiartawsiv@gmail.com",
+      "youtube": "https://youtube.com/@Iftiar_TawSiv",
+      "linkedin": "https://www.linkedin.com/in/iftiar-ibne-anwar-423717384"
+    }
+  },
+  {
+    "name": "Pronin",
+    "role": "তথ্য সহযোগিতা ও পর্যালোচক",
+    "bio": "তথ্য দিয়ে এবং পর্যালোচনা করে সহায়তা করেছেন।",
+    "imageUrl": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/8401d539e6860676b73549b102ad89cc6e742e29/Logo/MNR%20World/MNR%20Icon.svg",
+    "social": {}
+  },
+  {
+    "name": "Ridwan",
+    "role": "পর্যালোচক",
+    "bio": "প্রজেক্ট রিভিউ এবং মূল্যবান মতামত দিয়ে সহায়তা করেছেন।",
+    "imageUrl": "https://raw.githubusercontent.com/MNRfrom2020/logo-and-icon-cdn/refs/heads/main/Logo/Ridwan/Ridwan.jpg",
+    "social": {}
+  }
+]
