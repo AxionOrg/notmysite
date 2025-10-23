@@ -133,6 +133,12 @@ const Header = memo(function Header() {
   const navItems = [
     { id: "home", label: "হোম", icon: "Home", href: "/" },
     {
+      id: "courses",
+      label: "কোর্স",
+      icon: "GraduationCap",
+      href: "/courses",
+    },
+    {
       id: "calendar",
       label: "ক্যালেন্ডার",
       icon: "CalendarDays",
@@ -169,12 +175,6 @@ const Header = memo(function Header() {
           href: "/college",
         },
       ],
-    },
-    {
-      id: "courses",
-      label: "কোর্স",
-      icon: "GraduationCap",
-      href: "/courses",
     },
   ];
 
@@ -271,11 +271,14 @@ const Header = memo(function Header() {
             {navItems.map((item) => {
               let isActive = false;
               if (item.id === "info") {
-                isActive = infoPages.some((page) => pathname.startsWith(page));
+                isActive = infoPages.some(
+                  (page) => pathname === page || pathname.startsWith(`${page}/`),
+                );
               } else if (item.href === "/") {
                 isActive = pathname === item.href;
               } else {
-                isActive = pathname.startsWith(item.href);
+                isActive =
+                  pathname === item.href || pathname.startsWith(`${item.href}/`);
               }
               return <NavItem key={item.id} item={item} isActive={isActive} />;
             })}
